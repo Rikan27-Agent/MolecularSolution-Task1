@@ -17,26 +17,26 @@ Libraries used:
 
 
 - PyMuPDF: -
-  •	PyMuPDF is a fast Python library for reading, extracting, rendering, and manipulating PDF documents.
-  •	It is commonly used for fast text extraction, page-level processing, metadata extraction, PDF rendering, and document preprocessing.
+  - PyMuPDF is a fast Python library for reading, extracting, rendering, and manipulating PDF documents.
+  - It is commonly used for fast text extraction, page-level processing, metadata extraction, PDF rendering, and document preprocessing.
 - Pdfplumber: - 
-  •	pdfplumber is a Python library for extracting text and layout information from PDFs, with particularly useful support for tables and positioned text.
-  •	It is useful when document layout, text positioning, and table extraction are important.
+  - pdfplumber is a Python library for extracting text and layout information from PDFs, with particularly useful support for tables and positioned text.
+  - It is useful when document layout, text positioning, and table extraction are important.
 - Pypdf: -
-  •	pypdf is a pure-Python library used for reading, extracting, and manipulating PDF documents.
-  • It is useful for basic text extraction and general PDF operations without focusing heavily on layout analysis.
+  - pypdf is a pure-Python library used for reading, extracting, and manipulating PDF documents.
+  - It is useful for basic text extraction and general PDF operations without focusing heavily on layout analysis.
 - Pypdfium2: -
-  •	pypdfium2 is a Python binding for the PDFium library, used for rendering PDF pages and extracting PDF content.
-  • It is useful when you need PDF rendering capabilities along with page-level document processing.
+  - pypdfium2 is a Python binding for the PDFium library, used for rendering PDF pages and extracting PDF content.
+  - It is useful when you need PDF rendering capabilities along with page-level document processing.
 - Pdfminer.six: -
-  •	pdfminer.six is a Python library focused on detailed PDF text extraction and layout analysis.
-  • It is useful when we need fine-grained control over extracted text and its layout structure.
+  - pdfminer.six is a Python library focused on detailed PDF text extraction and layout analysis.
+  - It is useful when we need fine-grained control over extracted text and its layout structure.
 
 ---
 
 ## 2. Project Workflow
 
-```text
+--- 
                          ┌─────────────────────┐
                          │         PDF         │
                          └──────────┬──────────┘
@@ -113,53 +113,52 @@ Libraries used:
           │ • Characters              │
           └───────────────────────────┘
 
----
+--- 
 ### 3. Project Structure
+--- 
 
----
-
-Task1/
-│
-├── data/
-│   ├── input/
-│   │   ├── document1.pdf
-│   │   ├── document2.pdf
-│   │   └── document3.pdf
-│   │
-│   └── output/
-│       ├── pymupdf/
-│       ├── pdfplumber/
-│       ├── pypdf/
-│       ├── pypdfium2/
-│       └── pdfminer/
-│
-├── src/
-│   │
-│   ├── extractors/
-│   │   ├── __init__.py
-│   │   ├── pymupdf_extractor.py
-│   │   ├── pdfplumber_extractor.py
-│   │   ├── pypdf_extractor.py
-│   │   ├── pypdfium2_extractor.py
-│   │   └── pdfminer_extractor.py
-│   │
-│   ├── preprocessing/
-│   │   ├── __init__.py
-│   │   └── text_cleaner.py
-│   │
-│   ├── output/
-│   │   ├── __init__.py
-│   │   └── json_writer.py
-│   │
-│   ├── comparison/
-│   │   ├── __init__.py
-│   │   └── comparison.py
-│   │
-│   └── main.py
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+      Task1/
+      │
+      ├── data/
+      │   ├── input/
+      │   │   ├── document1.pdf
+      │   │   ├── document2.pdf
+      │   │   └── document3.pdf
+      │   │
+      │   └── output/
+      │       ├── pymupdf/
+      │       ├── pdfplumber/
+      │       ├── pypdf/
+      │       ├── pypdfium2/
+      │       └── pdfminer/
+      │
+      ├── src/
+      │   │
+      │   ├── extractors/
+      │   │   ├── __init__.py
+      │   │   ├── pymupdf_extractor.py
+      │   │   ├── pdfplumber_extractor.py
+      │   │   ├── pypdf_extractor.py
+      │   │   ├── pypdfium2_extractor.py
+      │   │   └── pdfminer_extractor.py
+      │   │
+      │   ├── preprocessing/
+      │   │   ├── __init__.py
+      │   │   └── text_cleaner.py
+      │   │
+      │   ├── output/
+      │   │   ├── __init__.py
+      │   │   └── json_writer.py
+      │   │
+      │   ├── comparison/
+      │   │   ├── __init__.py
+      │   │   └── comparison.py
+      │   │
+      │   └── main.py
+      │
+      ├── requirements.txt
+      ├── README.md
+      └── .gitignore
 
 
 ## 4. Implementation
@@ -326,295 +325,295 @@ python -m src.main
 - Different PDF structures, such as tables, multi-column layouts, and visual elements, can produce different extraction results across libraries.
 
 
-#### Sample Observation 1 :- 
-======================================================================
-PyMuPDF RESULT
-======================================================================
-Library        : PyMuPDF
-Execution Time : 0.025629 s
-Pages          : 16
-Words          : 2635
-Characters     : 18976
-======================================================================
-======================================================================
-pdfplumber RESULT
-======================================================================
-Library        : pdfplumber
-Execution Time : 0.454614 s
-Pages          : 16
-Words          : 2643
-Characters     : 19728
-======================================================================
-======================================================================
-pypdf RESULT
-======================================================================
-Library        : pypdf
-Execution Time : 0.178856 s
-Pages          : 16
-Words          : 2630
-Characters     : 18977
-======================================================================
-======================================================================
-pypdfium2 RESULT
-======================================================================
-Library        : pypdfium2
-Execution Time : 0.041884 s
-Pages          : 16
-Words          : 2780
-Characters     : 19825
-======================================================================
-======================================================================
-pdfminer.six RESULT
-======================================================================
-Library        : pdfminer.six
-Execution Time : 0.951684 s
-Pages          : 16
-Words          : 2714
-Characters     : 19183
-======================================================================
-
-Enter page number (1-16): 9
-
-======================================================================
-BEFORE / AFTER CLEANING
-======================================================================
-
-PAGE 9 - BEFORE CLEANING
-----------------------------------------------------------------------
-CONFIDENTIAL — DOCUMENT EXTRACTION TEST
-SECTION 09 — EXTRACTION CHECKLIST
-REV. 3.7
-4. Table Extraction Complexity
-The next table intentionally spans multiple pages. Its header repeats after page breaks. It contains null cells,
-N/A markers, negative values, percentages, dates, and mixed alignment.
-Item
-Description
-Category
-Qty
-Unit Price
-Discount
-Tax
-Net
-Status
-Review Date
-ITM-001
-ITM-002
-ITM-003
-ITM-004
-ITM-005
-ITM-006
-ITM-007
-ITM-008
-ITM-009
-ITM-010
-ITM-011
-ITM-012
-ITM-013
-ITM-014
-ITM-015
-ITM-016
-ITM-017
-ITM-018
-ITM-019
-ITM-020
-ITM-021
-ITM-022
-ITM-023
-ITM-024
-ITM-025
-ITM-026
-ITM-027
-ITM-028
-ITM-029
-ITM-030
-ITM-031
-ITM-032
-ITM-033
-ITM-034
-ITM-035
-ITM-036
-ITM-037
-ITM-038
-ITM-039
-ITM-040
-ITM-041
-ITM-042
-ITM-043
-ITM-044
-ITM-045
-Audit
-Synthetic transaction record 01 with intentionally long descriptive text for row-boundary testing.
-137.25
-8
-Synthetic transaction record 02 with intentionally long descriptive text for row-boundary testing.
-Support
-274.50
-15
-Risk
-Synthetic transaction record 03 with intentionally long descriptive text for row-boundary testing.
-411.75
-3
-Core
-Synthetic transaction record 04 with intentionally long descriptive text for row-boundary testing.
-549.00
-10
-Audit
-Synthetic transaction record 05 with intentionally long descriptive text for row-boundary testing.
-686.25
-17
-Synthetic transaction record 06 with intentionally long descriptive text for row-boundary testing.
-Support
-823.50
-5
-Risk
-Synthetic transaction record 07 with intentionally long descriptive tex
-
-PAGE 9 - AFTER CLEANING
-----------------------------------------------------------------------
-4. Table Extraction Complexity
-The next table intentionally spans multiple pages. Its header repeats after page breaks. It contains null cells,
-N/A markers, negative values, percentages, dates, and mixed alignment.
-Item
-Description
-Category
-Qty
-Unit Price
-Discount
-Tax
-Net
-Status
-Review Date
-ITM-001
-ITM-002
-ITM-003
-ITM-004
-ITM-005
-ITM-006
-ITM-007
-ITM-008
-ITM-009
-ITM-010
-ITM-011
-ITM-012
-ITM-013
-ITM-014
-ITM-015
-ITM-016
-ITM-017
-ITM-018
-ITM-019
-ITM-020
-ITM-021
-ITM-022
-ITM-023
-ITM-024
-ITM-025
-ITM-026
-ITM-027
-ITM-028
-ITM-029
-ITM-030
-ITM-031
-ITM-032
-ITM-033
-ITM-034
-ITM-035
-ITM-036
-ITM-037
-ITM-038
-ITM-039
-ITM-040
-ITM-041
-ITM-042
-ITM-043
-ITM-044
-ITM-045
-Audit
-Synthetic transaction record 01 with intentionally long descriptive text for row-boundary testing.
-137.25
-8
-Synthetic transaction record 02 with intentionally long descriptive text for row-boundary testing.
-Support
-274.50
-15
-Risk
-Synthetic transaction record 03 with intentionally long descriptive text for row-boundary testing.
-411.75
-3
-Core
-Synthetic transaction record 04 with intentionally long descriptive text for row-boundary testing.
-549.00
-10
-Audit
-Synthetic transaction record 05 with intentionally long descriptive text for row-boundary testing.
-686.25
-17
-Synthetic transaction record 06 with intentionally long descriptive text for row-boundary testing.
-Support
-823.50
-5
-Risk
-Synthetic transaction record 07 with intentionally long descriptive text for row-boundary testing.
-960.75
-12
-Core
-Synthetic transaction record 08 with int
-
-REMOVED HEADERS
-----------------------------------------------------------------------
-- CONFIDENTIAL — DOCUMENT EXTRACTION TEST
-- REV. 3.7
-- SECTION 09 — EXTRACTION CHECKLIST
-
-REMOVED FOOTERS
-----------------------------------------------------------------------
-- CONFIDENTIAL — SYNTHETIC TEST DOCUMENT
-
-REMOVED PAGE NUMBERS
-----------------------------------------------------------------------
-- Page 16 of 16
-- Page 1 of 16
-- Page 11 of 16
-- Page 13 of 16
-- Page 6 of 16
-- Page 4 of 16
-- Page 9 of 16
-- Page 10 of 16
-- Page 14 of 16
-- Page 12 of 16
-- Page 8 of 16
-- Page 7 of 16
-- Page 3 of 16
-- Page 15 of 16
-- Page 2 of 16
-
-======================================================================
-TEXT PREPROCESSING COMPARISON
-======================================================================
-Metric                   Before      After       
---------------------------------------------------
-pages                    16          16          
-words                    3040        2714        
-characters               21326       19183       
-headers                  3           0           
-footers                  1           0           
-page_numbers             15          0           
-blank_lines              10          0           
-extra_spaces             11          0           
-unwanted_characters      3           0           
-broken_lines             4           0           
-======================================================================
-====================================================================================================
-FINAL COMPARISON SUMMARY
-====================================================================================================
-Library         | Time (s)   | Pages   | Words    | Chars   
-----------------------------------------------------------------------------------------------------
-PyMuPDF         | 0.0256     | 16      | 2635     | 18976   
-pdfplumber      | 0.4546     | 16      | 2643     | 19728   
-pypdf           | 0.1789     | 16      | 2630     | 18977   
-pypdfium2       | 0.0419     | 16      | 2780     | 19825   
-pdfminer.six    | 0.9517     | 16      | 2714     | 19183   
-====================================================================================================
+      #### Sample Observation 1 :- 
+      ======================================================================
+      PyMuPDF RESULT
+      ======================================================================
+      Library        : PyMuPDF
+      Execution Time : 0.025629 s
+      Pages          : 16
+      Words          : 2635
+      Characters     : 18976
+      ======================================================================
+      ======================================================================
+      pdfplumber RESULT
+      ======================================================================
+      Library        : pdfplumber
+      Execution Time : 0.454614 s
+      Pages          : 16
+      Words          : 2643
+      Characters     : 19728
+      ======================================================================
+      ======================================================================
+      pypdf RESULT
+      ======================================================================
+      Library        : pypdf
+      Execution Time : 0.178856 s
+      Pages          : 16
+      Words          : 2630
+      Characters     : 18977
+      ======================================================================
+      ======================================================================
+      pypdfium2 RESULT
+      ======================================================================
+      Library        : pypdfium2
+      Execution Time : 0.041884 s
+      Pages          : 16
+      Words          : 2780
+      Characters     : 19825
+      ======================================================================
+      ======================================================================
+      pdfminer.six RESULT
+      ======================================================================
+      Library        : pdfminer.six
+      Execution Time : 0.951684 s
+      Pages          : 16
+      Words          : 2714
+      Characters     : 19183
+      ======================================================================
+      
+      Enter page number (1-16): 9
+      
+      ======================================================================
+      BEFORE / AFTER CLEANING
+      ======================================================================
+      
+      PAGE 9 - BEFORE CLEANING
+      ----------------------------------------------------------------------
+      CONFIDENTIAL — DOCUMENT EXTRACTION TEST
+      SECTION 09 — EXTRACTION CHECKLIST
+      REV. 3.7
+      4. Table Extraction Complexity
+      The next table intentionally spans multiple pages. Its header repeats after page breaks. It contains null cells,
+      N/A markers, negative values, percentages, dates, and mixed alignment.
+      Item
+      Description
+      Category
+      Qty
+      Unit Price
+      Discount
+      Tax
+      Net
+      Status
+      Review Date
+      ITM-001
+      ITM-002
+      ITM-003
+      ITM-004
+      ITM-005
+      ITM-006
+      ITM-007
+      ITM-008
+      ITM-009
+      ITM-010
+      ITM-011
+      ITM-012
+      ITM-013
+      ITM-014
+      ITM-015
+      ITM-016
+      ITM-017
+      ITM-018
+      ITM-019
+      ITM-020
+      ITM-021
+      ITM-022
+      ITM-023
+      ITM-024
+      ITM-025
+      ITM-026
+      ITM-027
+      ITM-028
+      ITM-029
+      ITM-030
+      ITM-031
+      ITM-032
+      ITM-033
+      ITM-034
+      ITM-035
+      ITM-036
+      ITM-037
+      ITM-038
+      ITM-039
+      ITM-040
+      ITM-041
+      ITM-042
+      ITM-043
+      ITM-044
+      ITM-045
+      Audit
+      Synthetic transaction record 01 with intentionally long descriptive text for row-boundary testing.
+      137.25
+      8
+      Synthetic transaction record 02 with intentionally long descriptive text for row-boundary testing.
+      Support
+      274.50
+      15
+      Risk
+      Synthetic transaction record 03 with intentionally long descriptive text for row-boundary testing.
+      411.75
+      3
+      Core
+      Synthetic transaction record 04 with intentionally long descriptive text for row-boundary testing.
+      549.00
+      10
+      Audit
+      Synthetic transaction record 05 with intentionally long descriptive text for row-boundary testing.
+      686.25
+      17
+      Synthetic transaction record 06 with intentionally long descriptive text for row-boundary testing.
+      Support
+      823.50
+      5
+      Risk
+      Synthetic transaction record 07 with intentionally long descriptive tex
+      
+      PAGE 9 - AFTER CLEANING
+      ----------------------------------------------------------------------
+      4. Table Extraction Complexity
+      The next table intentionally spans multiple pages. Its header repeats after page breaks. It contains null cells,
+      N/A markers, negative values, percentages, dates, and mixed alignment.
+      Item
+      Description
+      Category
+      Qty
+      Unit Price
+      Discount
+      Tax
+      Net
+      Status
+      Review Date
+      ITM-001
+      ITM-002
+      ITM-003
+      ITM-004
+      ITM-005
+      ITM-006
+      ITM-007
+      ITM-008
+      ITM-009
+      ITM-010
+      ITM-011
+      ITM-012
+      ITM-013
+      ITM-014
+      ITM-015
+      ITM-016
+      ITM-017
+      ITM-018
+      ITM-019
+      ITM-020
+      ITM-021
+      ITM-022
+      ITM-023
+      ITM-024
+      ITM-025
+      ITM-026
+      ITM-027
+      ITM-028
+      ITM-029
+      ITM-030
+      ITM-031
+      ITM-032
+      ITM-033
+      ITM-034
+      ITM-035
+      ITM-036
+      ITM-037
+      ITM-038
+      ITM-039
+      ITM-040
+      ITM-041
+      ITM-042
+      ITM-043
+      ITM-044
+      ITM-045
+      Audit
+      Synthetic transaction record 01 with intentionally long descriptive text for row-boundary testing.
+      137.25
+      8
+      Synthetic transaction record 02 with intentionally long descriptive text for row-boundary testing.
+      Support
+      274.50
+      15
+      Risk
+      Synthetic transaction record 03 with intentionally long descriptive text for row-boundary testing.
+      411.75
+      3
+      Core
+      Synthetic transaction record 04 with intentionally long descriptive text for row-boundary testing.
+      549.00
+      10
+      Audit
+      Synthetic transaction record 05 with intentionally long descriptive text for row-boundary testing.
+      686.25
+      17
+      Synthetic transaction record 06 with intentionally long descriptive text for row-boundary testing.
+      Support
+      823.50
+      5
+      Risk
+      Synthetic transaction record 07 with intentionally long descriptive text for row-boundary testing.
+      960.75
+      12
+      Core
+      Synthetic transaction record 08 with int
+      
+      REMOVED HEADERS
+      ----------------------------------------------------------------------
+      - CONFIDENTIAL — DOCUMENT EXTRACTION TEST
+      - REV. 3.7
+      - SECTION 09 — EXTRACTION CHECKLIST
+      
+      REMOVED FOOTERS
+      ----------------------------------------------------------------------
+      - CONFIDENTIAL — SYNTHETIC TEST DOCUMENT
+      
+      REMOVED PAGE NUMBERS
+      ----------------------------------------------------------------------
+      - Page 16 of 16
+      - Page 1 of 16
+      - Page 11 of 16
+      - Page 13 of 16
+      - Page 6 of 16
+      - Page 4 of 16
+      - Page 9 of 16
+      - Page 10 of 16
+      - Page 14 of 16
+      - Page 12 of 16
+      - Page 8 of 16
+      - Page 7 of 16
+      - Page 3 of 16
+      - Page 15 of 16
+      - Page 2 of 16
+      
+      ======================================================================
+      TEXT PREPROCESSING COMPARISON
+      ======================================================================
+      Metric                   Before      After       
+      --------------------------------------------------
+      pages                    16          16          
+      words                    3040        2714        
+      characters               21326       19183       
+      headers                  3           0           
+      footers                  1           0           
+      page_numbers             15          0           
+      blank_lines              10          0           
+      extra_spaces             11          0           
+      unwanted_characters      3           0           
+      broken_lines             4           0           
+      ======================================================================
+      ====================================================================================================
+      FINAL COMPARISON SUMMARY
+      ====================================================================================================
+      Library         | Time (s)   | Pages   | Words    | Chars   
+      ----------------------------------------------------------------------------------------------------
+      PyMuPDF         | 0.0256     | 16      | 2635     | 18976   
+      pdfplumber      | 0.4546     | 16      | 2643     | 19728   
+      pypdf           | 0.1789     | 16      | 2630     | 18977   
+      pypdfium2       | 0.0419     | 16      | 2780     | 19825   
+      pdfminer.six    | 0.9517     | 16      | 2714     | 19183   
+      ====================================================================================================
 ---
 ### 7. Conclusion
 
