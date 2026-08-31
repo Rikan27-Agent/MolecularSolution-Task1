@@ -1,0 +1,5015 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Synthetic Extraction Stress\055Test Report)
+/Subject (Document processing benchmark)
+/Author (Synthetic Data Generator)
+/Creator (ReportLab Stress\055Test Builder)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 15
+/Kids [ 4 0 R 17 0 R 21 0 R 25 0 R 29 0 R 33 0 R 37 0 R 41 0 R 45 0 R 49 0 R 53 0 R 57 0 R 61 0 R 65 0 R 69 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3874
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (CONFIDENTIAL \227 DOCUMENT EXTRACTION TEST) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 287.992 752.4 Tm (Title Page) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 24 Tf 28.8 TL ET
+BT 1 0 0 1 156.66 633.6 Tm (SYNTHETIC EXTRACTION) Tj T* ET
+BT 1 0 0 1 169.98 608.4 Tm (STRESS-TEST REPORT) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 137.934 568.8 Tm (A Legal / Financial Technical Document \227 Synthetic Data Only) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 255.145 511.2 Tm (Document Version: 3.7) Tj T* ET
+BT 1 0 0 1 254.025 495.2 Tm (Generated: 2026-08-28) Tj T* ET
+BT 1 0 0 1 244.865 479.2 Tm (Document ID: DOC.04.7.19) Tj T* ET
+BT 1 0 0 1 156.54 463.2 Tm (Classification: CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 161.22 447.2 Tm (Prepared for: Automated Document-Processing Benchmark Suite) Tj T* ET
+BT /F3 9 Tf 10.8 TL ET
+BT 1 0 0 1 171.945 410.4 Tm (This report contains no real personal, financial, or legal information.) Tj T* ET
+q
+0 1 -1 0 25.2 216 cm
+BT /F2 11 Tf 13.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 0 0 Tm (REVIEW COPY) Tj T* ET
+Q
+q
+0 1 -1 0 586.8 216 cm
+BT /F2 11 Tf 13.2 TL ET
+.6 .6 .6 rg
+BT 1 0 0 1 0 0 Tm (CONFIDENTIAL) Tj T* ET
+Q
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 64.8 352.8 Tm (TABLE OF CONTENTS) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 334.8 Tm (1. Introduction & Methodology) Tj T* ET
+BT 1 0 0 1 542.196 334.8 Tm (2) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 188.365 336.8 m 529.2 336.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 319.8 Tm (2. Two/Three-Column Analysis) Tj T* ET
+BT 1 0 0 1 542.196 319.8 Tm (3) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 191.83 321.8 m 529.2 321.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 304.8 Tm (3. Operational Findings \(2-col\)) Tj T* ET
+BT 1 0 0 1 542.196 304.8 Tm (4) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 189.841 306.8 m 529.2 306.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 289.8 Tm (4. Multi-Page Financial Table) Tj T* ET
+BT 1 0 0 1 542.196 289.8 Tm (5) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 185.341 291.8 m 529.2 291.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 274.8 Tm (5. Merged-Cell & Nested Tables) Tj T* ET
+BT 1 0 0 1 542.196 274.8 Tm (8) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 196.843 276.8 m 529.2 276.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 259.8 Tm (6. Typography & Encoding Tests) Tj T* ET
+BT 1 0 0 1 542.196 259.8 Tm (9) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 199.363 261.8 m 529.2 261.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 244.8 Tm (7. Synthetic Form / Record Extraction) Tj T* ET
+BT 1 0 0 1 537.192 244.8 Tm (10) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 218.353 246.8 m 529.2 246.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 229.8 Tm (8. Reading-Order Stress Tests) Tj T* ET
+BT 1 0 0 1 537.192 229.8 Tm (11) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 190.84 231.8 m 529.2 231.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 214.8 Tm (9. OCR / Visual Noise Section) Tj T* ET
+BT 1 0 0 1 537.192 214.8 Tm (13) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 188.842 216.8 m 529.2 216.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 199.8 Tm (10. Edge Cases) Tj T* ET
+BT 1 0 0 1 537.192 199.8 Tm (14) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 132.835 201.8 m 529.2 201.8 l S
+[] 0 d
+BT 1 0 0 1 64.8 184.8 Tm (11. Extraction Test Checklist) Tj T* ET
+BT 1 0 0 1 537.192 184.8 Tm (15) Tj T* ET
+[1 2] 0 d
+.666667 .666667 .666667 RG
+n 182.839 186.8 m 529.2 186.8 l S
+[] 0 d
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 1 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 1 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Symbol
+/Name /F7
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F8
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F9
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 19 0 R
+/F2 8 0 R
+/F2-0 20 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 5073
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (CONFIDENTIAL \227 DOCUMENT EXTRACTION TEST) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 252.86 752.4 Tm (1. Introduction & Methodology) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (1. Introduction & Methodology) Tj T* ET
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 694.8 Tm (This synthetic technical report is generated exclusively to stress-test automated document extraction) Tj T* ET
+BT 1 0 0 1 64.8 681.8 Tm (pipelines, including OCR engines, layout analysis models, table detectors, and reading-order reconstruction) Tj T* ET
+BT 1 0 0 1 64.8 668.8 Tm (algorithms.[1] All figures, identifiers, and names appearing herein are fictitious and synthetically generated) Tj T* ET
+BT 1 0 0 1 64.8 655.8 Tm (for evaluation purposes only.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 634.8 Tm (The extraction pipeline must preserve the) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 613.8 Tm (logical reading order even when the visual) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 592.8 Tm (layout introduces competing text regions.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 571.8 Tm (Throughout the docu-) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 550.8 Tm (ment, the reader will encounter deliberately irregular hyphenation, imple-) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 529.8 Tm (mentation notes, and extra-) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 508.8 Tm (ction markers designed to probe the robustness of line- and word-joining heuristics used by downstream NLP) Tj T* ET
+BT 1 0 0 1 64.8 495.8 Tm (systems.[2]) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 474.8 Tm (Section 2 introduces multi-column layouts. Section 3 continues with operational findings rendered in a dense) Tj T* ET
+BT 1 0 0 1 64.8 461.8 Tm (two-column format. Later sections address tables of escalating structural complexity, typography and) Tj T* ET
+BT 1 0 0 1 64.8 448.8 Tm (encoding edge cases, key-value form extraction, and finally a series of pages engineered specifically to defeat) Tj T* ET
+BT 1 0 0 1 64.8 435.8 Tm (naive top-to-bottom, left-to-right reading order assumptions.[3]) Tj T* ET
+0 0 0 rg
+q
+.94902 .94902 .94902 rg
+.533333 .533333 .533333 RG
+.8 w
+n 424.8 540 122.4 64.8 re B*
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 432.8 590.8 Tm (EXTRACTION WARNING) Tj T* ET
+0 0 0 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 432.8 578.8 Tm (This callout intentionally) Tj T* ET
+BT 1 0 0 1 432.8 569.8 Tm (interrupts the surrounding) Tj T* ET
+BT 1 0 0 1 432.8 560.8 Tm (reading order.) Tj T* ET
+0 0 0 rg
+Q
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 532.8 Tm (NOTE A \227) Tj T* ET
+BT 1 0 0 1 558 524.8 Tm (Verify source) Tj T* ET
+BT 1 0 0 1 558 516.8 Tm (order) Tj T* ET
+0 0 0 rg
+Q
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 10.8 460.8 Tm (Reviewer) Tj T* ET
+BT 1 0 0 1 10.8 452.8 Tm (comment:) Tj T* ET
+BT 1 0 0 1 10.8 444.8 Tm (table) Tj T* ET
+BT 1 0 0 1 10.8 436.8 Tm (continues) Tj T* ET
+0 0 0 rg
+Q
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 403.2 Tm (OCR CHECK) Tj T* ET
+0 0 0 rg
+Q
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 404.8 Tm (1.1 Borderless Summary Table) Tj T* ET
+BT /F5 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 64.8 384.8 Tm (Invoice ID        98402        Currency        USD) Tj T* ET
+BT 1 0 0 1 64.8 372.8 Tm (Customer Code     CX-771       Status          Pending) Tj T* ET
+BT 1 0 0 1 64.8 360.8 Tm (Subtotal          12,480.00    Tax             1,497.60) Tj T* ET
+BT 1 0 0 1 64.8 348.8 Tm (Total             13,977.60    Due Date        2026-09-15) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 81.6 Tm ([1] Synthetic reference used to test footnote separation from body text.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 71.6 Tm ([2] This note intentionally contains a longer sentence that wraps across multiple lines so that footnote-region segmentation can be evaluated against body-text) Tj T* ET
+BT 1 0 0 1 64.8 64.1 Tm (segmentation.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 61.6 Tm ([3] See \2474.2 for continuation of this discussion.) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 2 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 2 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F2-0 24 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 4963
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (TECHNICAL REVIEW | SECTION 04) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (2. Three-Column Analysis) Tj T* ET
+BT /F4 9.5 Tf 11.4 TL ET
+0 0 0 rg
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 698.4 Tm (The following section presents narrative commentary, statistical summaries, and reviewer observations side by side in a) Tj T* ET
+BT 1 0 0 1 64.8 686.4 Tm (three-column arrangement, testing column segmentation and cross-column reading order.) Tj T* ET
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 64.8 666 Tm (NARRATIVE) Tj T* ET
+BT 1 0 0 1 231.6 666 Tm (STATISTICS) Tj T* ET
+BT 1 0 0 1 398.4 666 Tm (REVIEWER OBSERVATIONS) Tj T* ET
+0 0 0 rg
+BT /F4 8 Tf 9.6 TL ET
+BT 1 0 0 1 64.8 650 Tm (Operational throughput increased across all) Tj T* ET
+BT 1 0 0 1 64.8 639.5 Tm (monitored regions during the review period.) Tj T* ET
+BT 1 0 0 1 64.8 629 Tm (Analysts attribute the change to revised intake) Tj T* ET
+BT 1 0 0 1 64.8 618.5 Tm (procedures and expanded synthetic data) Tj T* ET
+BT 1 0 0 1 64.8 608 Tm (validation checkpoints. Several anomalies) Tj T* ET
+BT 1 0 0 1 64.8 597.5 Tm (were flagged for manual review but none) Tj T* ET
+BT 1 0 0 1 64.8 587 Tm (required escalation beyond Tier 2.) Tj T* ET
+0 0 0 rg
+.866667 .866667 .866667 rg
+n 231.6 640 148.8 12 re f*
+0 0 0 rg
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 234.6 644 Tm (Metric) Tj T* ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.44 644 Tm (Val) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 231.6 652 m 231.6 640 l S
+n 313.44 652 m 313.44 640 l S
+n 380.4 652 m 380.4 640 l S
+n 231.6 652 m 380.4 652 l S
+n 231.6 640 m 380.4 640 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 234.6 632 Tm (Uptime) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.44 632 Tm (99.2%) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 231.6 640 m 231.6 628 l S
+n 313.44 640 m 313.44 628 l S
+n 380.4 640 m 380.4 628 l S
+n 231.6 640 m 380.4 640 l S
+n 231.6 628 m 380.4 628 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 234.6 620 Tm (Errors) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.44 620 Tm (12) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 231.6 628 m 231.6 616 l S
+n 313.44 628 m 313.44 616 l S
+n 380.4 628 m 380.4 616 l S
+n 231.6 628 m 380.4 628 l S
+n 231.6 616 m 380.4 616 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 234.6 608 Tm (Latency) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.44 608 Tm (84ms) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 231.6 616 m 231.6 604 l S
+n 313.44 616 m 313.44 604 l S
+n 380.4 616 m 380.4 604 l S
+n 231.6 616 m 380.4 616 l S
+n 231.6 604 m 380.4 604 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 234.6 596 Tm (Flag) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 316.44 596 Tm (N/A) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 231.6 604 m 231.6 592 l S
+n 313.44 604 m 313.44 592 l S
+n 380.4 604 m 380.4 592 l S
+n 231.6 604 m 380.4 604 l S
+n 231.6 592 m 380.4 592 l S
+0 0 0 rg
+BT /F4 7.5 Tf 9 TL ET
+BT 1 0 0 1 231.6 576 Tm (Statistics reflect synthetic monitoring data) Tj T* ET
+BT 1 0 0 1 231.6 566.5 Tm (aggregated over a fourteen-day rolling window) Tj T* ET
+BT 1 0 0 1 231.6 557 Tm (for benchmark purposes only.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F3 7.5 Tf 9 TL ET
+BT 1 0 0 1 398.4 650 Tm (Reviewer note: values in the statistics) Tj T* ET
+BT 1 0 0 1 398.4 640.5 Tm (column are synthetic placeholders.) Tj T* ET
+BT 1 0 0 1 398.4 631 Tm (Cross-reference against Section 4) Tj T* ET
+BT 1 0 0 1 398.4 621.5 Tm (multi-page table before final sign-off.) Tj T* ET
+BT 1 0 0 1 398.4 612 Tm (Escalation not required at this time.) Tj T* ET
+0 0 0 rg
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 10.8 489.6 Tm (Margin) Tj T* ET
+BT 1 0 0 1 10.8 481.6 Tm (annotation 17) Tj T* ET
+0 0 0 rg
+Q
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 432 Tm (See \2474.2) Tj T* ET
+0 0 0 rg
+Q
+.6 .6 .6 RG
+.5 w
+n 64.8 324 m 547.2 324 l S
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 309.6 Tm (Interim Conclusion) Tj T* ET
+0 0 0 rg
+BT /F4 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 64.8 295.2 Tm (Full-width summary: the three-column format above intentionally places a table in the middle column between narrative and reviewer text,) Tj T* ET
+BT 1 0 0 1 64.8 284.2 Tm (challenging simple column-order concatenation strategies.) Tj T* ET
+0 0 0 rg
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 3 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 3 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 8 0 R
+/F2-0 28 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 3086
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (CONFIDENTIAL \227 DOCUMENT EXTRACTION TEST) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 264.648 752.4 Tm (3. Operational Findings) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (3. Operational Findings) Tj T* ET
+0 0 0 rg
+BT /F4 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 694.8 Tm (Dense technical prose occupies the first column of this page.) Tj T* ET
+BT 1 0 0 1 64.8 682.3 Tm (The extraction pipeline should recognize that this column reads) Tj T* ET
+BT 1 0 0 1 64.8 669.8 Tm (fully from top to bottom before the second column begins,) Tj T* ET
+BT 1 0 0 1 64.8 657.3 Tm (even though both columns are visually adjacent. Efficient,) Tj T* ET
+BT 1 0 0 1 64.8 644.8 Tm (official, and affiliation are examples of ligature-bearing words) Tj T* ET
+BT 1 0 0 1 64.8 632.3 Tm (embedded here for typography testing. The financial) Tj T* ET
+BT 1 0 0 1 64.8 619.8 Tm (subsystem processed 13,977.60 units of synthetic currency) Tj T* ET
+BT 1 0 0 1 64.8 607.3 Tm (during the observed interval, with an official efficiency rating) Tj T* ET
+BT 1 0 0 1 64.8 594.8 Tm (of 91.4%. Continued monitoring is recommended, and any) Tj T* ET
+BT 1 0 0 1 64.8 582.3 Tm (deviation exceeding \2610.25% should be flagged for reviewer) Tj T* ET
+BT 1 0 0 1 64.8 569.8 Tm (follow-up per protocol REF-2026-0048-A.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 9 Tf 10.8 TL ET
+BT 1 0 0 1 318.6 694.8 Tm (Column two continues the operational narrative. A small) Tj T* ET
+BT 1 0 0 1 318.6 682.3 Tm (callout and short list are embedded below to interrupt the flow) Tj T* ET
+BT 1 0 0 1 318.6 669.8 Tm (of dense paragraphs and test whether extraction correctly) Tj T* ET
+BT 1 0 0 1 318.6 657.3 Tm (separates list items from surrounding prose.) Tj T* ET
+0 0 0 rg
+q
+.94902 .94902 .94902 rg
+.533333 .533333 .533333 RG
+.8 w
+n 318.6 595.2 228.6 39.6 re B*
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 326.6 620.8 Tm (REVIEWER NOTE) Tj T* ET
+0 0 0 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 326.6 608.8 Tm (Values in this section are synthetic.) Tj T* ET
+0 0 0 rg
+Q
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 318.6 584.4 Tm (Key observations:) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 322.6 570.4 Tm (\177 Throughput variance within tolerance) Tj T* ET
+BT 1 0 0 1 322.6 558.4 Tm (\177 Two anomalies auto-resolved) Tj T* ET
+BT 1 0 0 1 322.6 546.4 Tm (\177 No Tier-3 escalations recorded) Tj T* ET
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 561.6 Tm (IMPORTANT) Tj T* ET
+0 0 0 rg
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 4 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 4 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 31 0 R
+/F2 8 0 R
+/F2-0 32 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 32810
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (LEGAL / FINANCIAL RECORD \227 SYNTHETIC DATA) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 64.8 720 Tm (4. Multi-Page Financial Ledger) Tj T* ET
+0 0 0 rg
+BT /F4 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 64.8 702 Tm (The table below intentionally spans multiple pages. Each new page repeats the header row. Columns mix numeric, textual, date, percentage,) Tj T* ET
+BT 1 0 0 1 64.8 691 Tm (and currency data, and include empty cells, N/A markers, dashes, and negative values.) Tj T* ET
+0 0 0 rg
+.866667 .866667 .866667 rg
+n 64.8 654.1 525.6 15.5 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.8096 658.1 Tm (Item) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 658.1 Tm (Description) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 658.1 Tm (Category) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.0644 658.1 Tm (Qty) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 318.0576 658.1 Tm (Unit Price) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 360.3096 658.1 Tm (Discount) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 413.6836 658.1 Tm (Tax) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 464.8452 658.1 Tm (Net) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6096 658.1 Tm (Status) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 539.7706 658.1 Tm (Review Date) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 669.6 m 64.8 654.1 l S
+n 100.8 669.6 m 100.8 654.1 l S
+n 212.4 669.6 m 212.4 654.1 l S
+n 273.6 669.6 m 273.6 654.1 l S
+n 302.4 669.6 m 302.4 654.1 l S
+n 352.8 669.6 m 352.8 654.1 l S
+n 392.4 669.6 m 392.4 654.1 l S
+n 428.4 669.6 m 428.4 654.1 l S
+n 478.8 669.6 m 478.8 654.1 l S
+n 529.2 669.6 m 529.2 654.1 l S
+n 590.4 669.6 m 590.4 654.1 l S
+n 64.8 669.6 m 590.4 669.6 l S
+n 64.8 654.1 m 590.4 654.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 642.6 Tm (1000) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 642.6 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 642.6 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 642.6 Tm (1) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 334.0374 642.6 Tm (76.30) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 642.6 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 413.1402 642.6 Tm (6.10) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 460.0374 642.6 Tm (70.20) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 495.4226 642.6 Tm (Active) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 642.6 Tm (2026-04-05) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 654.1 m 64.8 638.6 l S
+n 100.8 654.1 m 100.8 638.6 l S
+n 212.4 654.1 m 212.4 638.6 l S
+n 273.6 654.1 m 273.6 638.6 l S
+n 302.4 654.1 m 302.4 638.6 l S
+n 352.8 654.1 m 352.8 638.6 l S
+n 392.4 654.1 m 392.4 638.6 l S
+n 428.4 654.1 m 428.4 638.6 l S
+n 478.8 654.1 m 478.8 638.6 l S
+n 529.2 654.1 m 529.2 638.6 l S
+n 590.4 654.1 m 590.4 638.6 l S
+n 64.8 654.1 m 590.4 654.1 l S
+n 64.8 638.6 m 590.4 638.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 627.1 Tm (1001) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 627.1 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 627.1 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 627.1 Tm (1) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 627.1 Tm (2,931.99) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 627.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 627.1 Tm (234.56) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 627.1 Tm (2,697.43) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 500.85 627.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 627.1 Tm (2026-02-07) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 638.6 m 64.8 623.1 l S
+n 100.8 638.6 m 100.8 623.1 l S
+n 212.4 638.6 m 212.4 623.1 l S
+n 273.6 638.6 m 273.6 623.1 l S
+n 302.4 638.6 m 302.4 623.1 l S
+n 352.8 638.6 m 352.8 623.1 l S
+n 392.4 638.6 m 392.4 623.1 l S
+n 428.4 638.6 m 428.4 623.1 l S
+n 478.8 638.6 m 478.8 623.1 l S
+n 529.2 638.6 m 529.2 623.1 l S
+n 590.4 638.6 m 590.4 623.1 l S
+n 64.8 638.6 m 590.4 638.6 l S
+n 64.8 623.1 m 590.4 623.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 611.6 Tm (1002) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 611.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 611.6 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 611.6 Tm (0) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 611.6 Tm (2,784.29) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 611.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 611.6 Tm (222.74) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 611.6 Tm (2,561.55) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.1972 611.6 Tm (Closed) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 611.6 Tm (2026-04-15) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 623.1 m 64.8 607.6 l S
+n 100.8 623.1 m 100.8 607.6 l S
+n 212.4 623.1 m 212.4 607.6 l S
+n 273.6 623.1 m 273.6 607.6 l S
+n 302.4 623.1 m 302.4 607.6 l S
+n 352.8 623.1 m 352.8 607.6 l S
+n 392.4 623.1 m 392.4 607.6 l S
+n 428.4 623.1 m 428.4 607.6 l S
+n 478.8 623.1 m 478.8 607.6 l S
+n 529.2 623.1 m 529.2 607.6 l S
+n 590.4 623.1 m 590.4 607.6 l S
+n 64.8 623.1 m 590.4 623.1 l S
+n 64.8 607.6 m 590.4 607.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 596.1 Tm (1003) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 596.1 Tm (Long unbroken descriptor string: XZQPLM-) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 596.1 Tm (Licensing) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 596.1 Tm (0) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 596.1 Tm (3,781.98) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 596.1 Tm (5%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 596.1 Tm (302.56) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 596.1 Tm (3,479.42) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4427 596.1 Tm (Pending) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 596.1 Tm (2026-07-11) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 607.6 m 64.8 592.1 l S
+n 100.8 607.6 m 100.8 592.1 l S
+n 212.4 607.6 m 212.4 592.1 l S
+n 273.6 607.6 m 273.6 592.1 l S
+n 302.4 607.6 m 302.4 592.1 l S
+n 352.8 607.6 m 352.8 592.1 l S
+n 392.4 607.6 m 392.4 592.1 l S
+n 428.4 607.6 m 428.4 592.1 l S
+n 478.8 607.6 m 478.8 592.1 l S
+n 529.2 607.6 m 529.2 592.1 l S
+n 590.4 607.6 m 590.4 592.1 l S
+n 64.8 607.6 m 590.4 607.6 l S
+n 64.8 592.1 m 590.4 592.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 580.6 Tm (1004) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 580.6 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 580.6 Tm (Hardware) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 580.6 Tm (3) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 580.6 Tm (4,783.93) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 580.6 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 580.6 Tm (382.71) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 580.6 Tm (4,401.22) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.1972 580.6 Tm (Closed) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 580.6 Tm (2026-02-13) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 592.1 m 64.8 576.6 l S
+n 100.8 592.1 m 100.8 576.6 l S
+n 212.4 592.1 m 212.4 576.6 l S
+n 273.6 592.1 m 273.6 576.6 l S
+n 302.4 592.1 m 302.4 576.6 l S
+n 352.8 592.1 m 352.8 576.6 l S
+n 392.4 592.1 m 392.4 576.6 l S
+n 428.4 592.1 m 428.4 576.6 l S
+n 478.8 592.1 m 478.8 576.6 l S
+n 529.2 592.1 m 529.2 576.6 l S
+n 590.4 592.1 m 590.4 576.6 l S
+n 64.8 592.1 m 590.4 592.1 l S
+n 64.8 576.6 m 590.4 576.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 565.1 Tm (1005) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 565.1 Tm (Long unbroken descriptor string: XZQPLM-) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 565.1 Tm (Hardware) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 565.1 Tm (8) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 565.1 Tm (2,998.82) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 565.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 565.1 Tm (239.91) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 565.1 Tm (2,758.91) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 565.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 565.1 Tm (2026-08-18) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 576.6 m 64.8 561.1 l S
+n 100.8 576.6 m 100.8 561.1 l S
+n 212.4 576.6 m 212.4 561.1 l S
+n 273.6 576.6 m 273.6 561.1 l S
+n 302.4 576.6 m 302.4 561.1 l S
+n 352.8 576.6 m 352.8 561.1 l S
+n 392.4 576.6 m 392.4 561.1 l S
+n 428.4 576.6 m 428.4 561.1 l S
+n 478.8 576.6 m 478.8 561.1 l S
+n 529.2 576.6 m 529.2 561.1 l S
+n 590.4 576.6 m 590.4 561.1 l S
+n 64.8 576.6 m 590.4 576.6 l S
+n 64.8 561.1 m 590.4 561.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 549.6 Tm (1006) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 549.6 Tm (Recurring maintenance allocation) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 549.6 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 549.6 Tm (1) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 549.6 Tm (2,737.81) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 549.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 549.6 Tm (219.02) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 549.6 Tm (2,518.79) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 495.4226 549.6 Tm (Active) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 549.6 Tm (2026-10-07) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 561.1 m 64.8 545.6 l S
+n 100.8 561.1 m 100.8 545.6 l S
+n 212.4 561.1 m 212.4 545.6 l S
+n 273.6 561.1 m 273.6 545.6 l S
+n 302.4 561.1 m 302.4 545.6 l S
+n 352.8 561.1 m 352.8 545.6 l S
+n 392.4 561.1 m 392.4 545.6 l S
+n 428.4 561.1 m 428.4 545.6 l S
+n 478.8 561.1 m 478.8 545.6 l S
+n 529.2 561.1 m 529.2 545.6 l S
+n 590.4 561.1 m 590.4 545.6 l S
+n 64.8 561.1 m 590.4 561.1 l S
+n 64.8 545.6 m 590.4 545.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 534.1 Tm (1007) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 534.1 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 534.1 Tm (Hardware) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 534.1 Tm (0) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 534.1 Tm (3,289.38) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 534.1 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 534.1 Tm (263.15) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 534.1 Tm (3,026.23) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 534.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 534.1 Tm (2026-04-28) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 545.6 m 64.8 530.1 l S
+n 100.8 545.6 m 100.8 530.1 l S
+n 212.4 545.6 m 212.4 530.1 l S
+n 273.6 545.6 m 273.6 530.1 l S
+n 302.4 545.6 m 302.4 530.1 l S
+n 352.8 545.6 m 352.8 530.1 l S
+n 392.4 545.6 m 392.4 530.1 l S
+n 428.4 545.6 m 428.4 530.1 l S
+n 478.8 545.6 m 478.8 530.1 l S
+n 529.2 545.6 m 529.2 530.1 l S
+n 590.4 545.6 m 590.4 530.1 l S
+n 64.8 545.6 m 590.4 545.6 l S
+n 64.8 530.1 m 590.4 530.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 518.6 Tm (1008) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 518.6 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 518.6 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 518.6 Tm (5) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 518.6 Tm (2,239.72) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 518.6 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 518.6 Tm (179.18) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 518.6 Tm (2,060.54) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 518.6 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 518.6 Tm (2026-06-12) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 530.1 m 64.8 514.6 l S
+n 100.8 530.1 m 100.8 514.6 l S
+n 212.4 530.1 m 212.4 514.6 l S
+n 273.6 530.1 m 273.6 514.6 l S
+n 302.4 530.1 m 302.4 514.6 l S
+n 352.8 530.1 m 352.8 514.6 l S
+n 392.4 530.1 m 392.4 514.6 l S
+n 428.4 530.1 m 428.4 514.6 l S
+n 478.8 530.1 m 478.8 514.6 l S
+n 529.2 530.1 m 529.2 514.6 l S
+n 590.4 530.1 m 590.4 514.6 l S
+n 64.8 530.1 m 590.4 530.1 l S
+n 64.8 514.6 m 590.4 514.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 503.1 Tm (1009) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 503.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 503.1 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 503.1 Tm (5) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 503.1 Tm (3,494.19) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 503.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 503.1 Tm (279.54) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 503.1 Tm (3,214.65) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 503.1 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 503.1 Tm (2026-11-06) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 514.6 m 64.8 499.1 l S
+n 100.8 514.6 m 100.8 499.1 l S
+n 212.4 514.6 m 212.4 499.1 l S
+n 273.6 514.6 m 273.6 499.1 l S
+n 302.4 514.6 m 302.4 499.1 l S
+n 352.8 514.6 m 352.8 499.1 l S
+n 392.4 514.6 m 392.4 499.1 l S
+n 428.4 514.6 m 428.4 499.1 l S
+n 478.8 514.6 m 478.8 499.1 l S
+n 529.2 514.6 m 529.2 499.1 l S
+n 590.4 514.6 m 590.4 499.1 l S
+n 64.8 514.6 m 590.4 514.6 l S
+n 64.8 499.1 m 590.4 499.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 487.6 Tm (1010) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 487.6 Tm (Recurring maintenance allocation) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 487.6 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 487.6 Tm (3) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 487.6 Tm (775.18) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 487.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 487.6 Tm (62.01) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 487.6 Tm (713.17) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4427 487.6 Tm (Pending) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 487.6 Tm (2026-11-23) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 499.1 m 64.8 483.6 l S
+n 100.8 499.1 m 100.8 483.6 l S
+n 212.4 499.1 m 212.4 483.6 l S
+n 273.6 499.1 m 273.6 483.6 l S
+n 302.4 499.1 m 302.4 483.6 l S
+n 352.8 499.1 m 352.8 483.6 l S
+n 392.4 499.1 m 392.4 483.6 l S
+n 428.4 499.1 m 428.4 483.6 l S
+n 478.8 499.1 m 478.8 483.6 l S
+n 529.2 499.1 m 529.2 483.6 l S
+n 590.4 499.1 m 590.4 483.6 l S
+n 64.8 499.1 m 590.4 499.1 l S
+n 64.8 483.6 m 590.4 483.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 472.1 Tm (1011) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 472.1 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 472.1 Tm (Licensing) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 472.1 Tm (8) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 472.1 Tm (4,206.40) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 472.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 472.1 Tm (336.51) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 472.1 Tm (3,869.89) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 472.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 472.1 Tm (2026-01-26) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 483.6 m 64.8 468.1 l S
+n 100.8 483.6 m 100.8 468.1 l S
+n 212.4 483.6 m 212.4 468.1 l S
+n 273.6 483.6 m 273.6 468.1 l S
+n 302.4 483.6 m 302.4 468.1 l S
+n 352.8 483.6 m 352.8 468.1 l S
+n 392.4 483.6 m 392.4 468.1 l S
+n 428.4 483.6 m 428.4 468.1 l S
+n 478.8 483.6 m 478.8 468.1 l S
+n 529.2 483.6 m 529.2 468.1 l S
+n 590.4 483.6 m 590.4 468.1 l S
+n 64.8 483.6 m 590.4 483.6 l S
+n 64.8 468.1 m 590.4 468.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 456.6 Tm (1012) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 456.6 Tm (Long unbroken descriptor string: XZQPLM-) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 456.6 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 456.6 Tm (5) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 456.6 Tm (284.25) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 456.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 456.6 Tm (22.74) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 456.6 Tm (261.51) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 456.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 456.6 Tm (2026-06-07) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 468.1 m 64.8 452.6 l S
+n 100.8 468.1 m 100.8 452.6 l S
+n 212.4 468.1 m 212.4 452.6 l S
+n 273.6 468.1 m 273.6 452.6 l S
+n 302.4 468.1 m 302.4 452.6 l S
+n 352.8 468.1 m 352.8 452.6 l S
+n 392.4 468.1 m 392.4 452.6 l S
+n 428.4 468.1 m 428.4 452.6 l S
+n 478.8 468.1 m 478.8 452.6 l S
+n 529.2 468.1 m 529.2 452.6 l S
+n 590.4 468.1 m 590.4 452.6 l S
+n 64.8 468.1 m 590.4 468.1 l S
+n 64.8 452.6 m 590.4 452.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 441.1 Tm (1013) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 441.1 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 441.1 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 292.3944 441.1 Tm (12) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 441.1 Tm (4,417.65) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 441.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 441.1 Tm (353.41) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 441.1 Tm (4,064.24) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 441.1 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 441.1 Tm (2026-05-05) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 452.6 m 64.8 437.1 l S
+n 100.8 452.6 m 100.8 437.1 l S
+n 212.4 452.6 m 212.4 437.1 l S
+n 273.6 452.6 m 273.6 437.1 l S
+n 302.4 452.6 m 302.4 437.1 l S
+n 352.8 452.6 m 352.8 437.1 l S
+n 392.4 452.6 m 392.4 437.1 l S
+n 428.4 452.6 m 428.4 437.1 l S
+n 478.8 452.6 m 478.8 437.1 l S
+n 529.2 452.6 m 529.2 437.1 l S
+n 590.4 452.6 m 590.4 437.1 l S
+n 64.8 452.6 m 590.4 452.6 l S
+n 64.8 437.1 m 590.4 437.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 425.6 Tm (1014) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 425.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 425.6 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 425.6 Tm (5) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 425.6 Tm (3,722.42) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 425.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 425.6 Tm (297.79) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 425.6 Tm (3,424.63) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4427 425.6 Tm (Pending) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 425.6 Tm (2026-07-12) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 437.1 m 64.8 421.6 l S
+n 100.8 437.1 m 100.8 421.6 l S
+n 212.4 437.1 m 212.4 421.6 l S
+n 273.6 437.1 m 273.6 421.6 l S
+n 302.4 437.1 m 302.4 421.6 l S
+n 352.8 437.1 m 352.8 421.6 l S
+n 392.4 437.1 m 392.4 421.6 l S
+n 428.4 437.1 m 428.4 421.6 l S
+n 478.8 437.1 m 478.8 421.6 l S
+n 529.2 437.1 m 529.2 421.6 l S
+n 590.4 437.1 m 590.4 421.6 l S
+n 64.8 437.1 m 590.4 437.1 l S
+n 64.8 421.6 m 590.4 421.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 410.1 Tm (1015) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 410.1 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 410.1 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.8979 410.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 410.1 Tm (409.09) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 410.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 410.1 Tm (32.73) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 410.1 Tm (376.36) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 410.1 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 410.1 Tm (2026-03-21) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 421.6 m 64.8 406.1 l S
+n 100.8 421.6 m 100.8 406.1 l S
+n 212.4 421.6 m 212.4 406.1 l S
+n 273.6 421.6 m 273.6 406.1 l S
+n 302.4 421.6 m 302.4 406.1 l S
+n 352.8 421.6 m 352.8 406.1 l S
+n 392.4 421.6 m 392.4 406.1 l S
+n 428.4 421.6 m 428.4 406.1 l S
+n 478.8 421.6 m 478.8 406.1 l S
+n 529.2 421.6 m 529.2 406.1 l S
+n 590.4 421.6 m 590.4 406.1 l S
+n 64.8 421.6 m 590.4 421.6 l S
+n 64.8 406.1 m 590.4 406.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 394.6 Tm (1016) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 394.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 394.6 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 292.3944 394.6 Tm (12) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 394.6 Tm (2,961.87) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 394.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 394.6 Tm (236.95) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 394.6 Tm (2,724.92) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.1972 394.6 Tm (Closed) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 394.6 Tm (2026-10-15) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 406.1 m 64.8 390.6 l S
+n 100.8 406.1 m 100.8 390.6 l S
+n 212.4 406.1 m 212.4 390.6 l S
+n 273.6 406.1 m 273.6 390.6 l S
+n 302.4 406.1 m 302.4 390.6 l S
+n 352.8 406.1 m 352.8 390.6 l S
+n 392.4 406.1 m 392.4 390.6 l S
+n 428.4 406.1 m 428.4 390.6 l S
+n 478.8 406.1 m 478.8 390.6 l S
+n 529.2 406.1 m 529.2 390.6 l S
+n 590.4 406.1 m 590.4 390.6 l S
+n 64.8 406.1 m 590.4 406.1 l S
+n 64.8 390.6 m 590.4 390.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 379.1 Tm (1017) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 379.1 Tm (Long unbroken descriptor string: XZQPLM-) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 379.1 Tm (Licensing) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 379.1 Tm (0) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 379.1 Tm (3,385.43) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 379.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 379.1 Tm (270.83) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 379.1 Tm (3,114.60) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 379.1 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 379.1 Tm (2026-09-25) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 390.6 m 64.8 375.1 l S
+n 100.8 390.6 m 100.8 375.1 l S
+n 212.4 390.6 m 212.4 375.1 l S
+n 273.6 390.6 m 273.6 375.1 l S
+n 302.4 390.6 m 302.4 375.1 l S
+n 352.8 390.6 m 352.8 375.1 l S
+n 392.4 390.6 m 392.4 375.1 l S
+n 428.4 390.6 m 428.4 375.1 l S
+n 478.8 390.6 m 478.8 375.1 l S
+n 529.2 390.6 m 529.2 375.1 l S
+n 590.4 390.6 m 590.4 375.1 l S
+n 64.8 390.6 m 590.4 390.6 l S
+n 64.8 375.1 m 590.4 375.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 363.6 Tm (1018) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 363.6 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 363.6 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 363.6 Tm (8) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 363.6 Tm (513.34) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 363.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 363.6 Tm (41.07) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 363.6 Tm (472.27) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 363.6 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 363.6 Tm (2026-08-01) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 375.1 m 64.8 359.6 l S
+n 100.8 375.1 m 100.8 359.6 l S
+n 212.4 375.1 m 212.4 359.6 l S
+n 273.6 375.1 m 273.6 359.6 l S
+n 302.4 375.1 m 302.4 359.6 l S
+n 352.8 375.1 m 352.8 359.6 l S
+n 392.4 375.1 m 392.4 359.6 l S
+n 428.4 375.1 m 428.4 359.6 l S
+n 478.8 375.1 m 478.8 359.6 l S
+n 529.2 375.1 m 529.2 359.6 l S
+n 590.4 375.1 m 590.4 359.6 l S
+n 64.8 375.1 m 590.4 375.1 l S
+n 64.8 359.6 m 590.4 359.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 348.1 Tm (1019) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 348.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 348.1 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 348.1 Tm (5) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 348.1 Tm (4,858.03) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 348.1 Tm (5%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 348.1 Tm (388.64) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 348.1 Tm (4,469.39) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.1972 348.1 Tm (Closed) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 348.1 Tm (2026-02-28) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 359.6 m 64.8 344.1 l S
+n 100.8 359.6 m 100.8 344.1 l S
+n 212.4 359.6 m 212.4 344.1 l S
+n 273.6 359.6 m 273.6 344.1 l S
+n 302.4 359.6 m 302.4 344.1 l S
+n 352.8 359.6 m 352.8 344.1 l S
+n 392.4 359.6 m 392.4 344.1 l S
+n 428.4 359.6 m 428.4 344.1 l S
+n 478.8 359.6 m 478.8 344.1 l S
+n 529.2 359.6 m 529.2 344.1 l S
+n 590.4 359.6 m 590.4 344.1 l S
+n 64.8 359.6 m 590.4 359.6 l S
+n 64.8 344.1 m 590.4 344.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 332.6 Tm (1020) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 332.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 332.6 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 332.6 Tm (3) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 332.6 Tm (721.84) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 332.6 Tm (5%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 332.6 Tm (57.75) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 332.6 Tm (664.09) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.1972 332.6 Tm (Closed) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 332.6 Tm (2026-09-01) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 344.1 m 64.8 328.6 l S
+n 100.8 344.1 m 100.8 328.6 l S
+n 212.4 344.1 m 212.4 328.6 l S
+n 273.6 344.1 m 273.6 328.6 l S
+n 302.4 344.1 m 302.4 328.6 l S
+n 352.8 344.1 m 352.8 328.6 l S
+n 392.4 344.1 m 392.4 328.6 l S
+n 428.4 344.1 m 428.4 328.6 l S
+n 478.8 344.1 m 478.8 328.6 l S
+n 529.2 344.1 m 529.2 328.6 l S
+n 590.4 344.1 m 590.4 328.6 l S
+n 64.8 344.1 m 590.4 344.1 l S
+n 64.8 328.6 m 590.4 328.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 317.1 Tm (1021) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 317.1 Tm (Recurring maintenance allocation) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 317.1 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.8979 317.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 334.0374 317.1 Tm (48.36) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 317.1 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 413.1402 317.1 Tm (3.87) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 460.0374 317.1 Tm (44.49) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 500.85 317.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 317.1 Tm (2026-04-02) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 328.6 m 64.8 313.1 l S
+n 100.8 328.6 m 100.8 313.1 l S
+n 212.4 328.6 m 212.4 313.1 l S
+n 273.6 328.6 m 273.6 313.1 l S
+n 302.4 328.6 m 302.4 313.1 l S
+n 352.8 328.6 m 352.8 313.1 l S
+n 392.4 328.6 m 392.4 313.1 l S
+n 428.4 328.6 m 428.4 313.1 l S
+n 478.8 328.6 m 478.8 313.1 l S
+n 529.2 328.6 m 529.2 313.1 l S
+n 590.4 328.6 m 590.4 313.1 l S
+n 64.8 328.6 m 590.4 328.6 l S
+n 64.8 313.1 m 590.4 313.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 301.6 Tm (1022) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 301.6 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 301.6 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 301.6 Tm (1) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 301.6 Tm (382.55) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 301.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 301.6 Tm (30.60) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 301.6 Tm (351.95) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4427 301.6 Tm (Pending) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 301.6 Tm (2026-09-25) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 313.1 m 64.8 297.6 l S
+n 100.8 313.1 m 100.8 297.6 l S
+n 212.4 313.1 m 212.4 297.6 l S
+n 273.6 313.1 m 273.6 297.6 l S
+n 302.4 313.1 m 302.4 297.6 l S
+n 352.8 313.1 m 352.8 297.6 l S
+n 392.4 313.1 m 392.4 297.6 l S
+n 428.4 313.1 m 428.4 297.6 l S
+n 478.8 313.1 m 478.8 297.6 l S
+n 529.2 313.1 m 529.2 297.6 l S
+n 590.4 313.1 m 590.4 297.6 l S
+n 64.8 313.1 m 590.4 313.1 l S
+n 64.8 297.6 m 590.4 297.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 286.1 Tm (1023) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 286.1 Tm (Recurring maintenance allocation) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 286.1 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.8979 286.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 286.1 Tm (4,731.59) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 286.1 Tm (5%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 286.1 Tm (378.53) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 286.1 Tm (4,353.06) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 286.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 286.1 Tm (2026-09-28) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 297.6 m 64.8 282.1 l S
+n 100.8 297.6 m 100.8 282.1 l S
+n 212.4 297.6 m 212.4 282.1 l S
+n 273.6 297.6 m 273.6 282.1 l S
+n 302.4 297.6 m 302.4 282.1 l S
+n 352.8 297.6 m 352.8 282.1 l S
+n 392.4 297.6 m 392.4 282.1 l S
+n 428.4 297.6 m 428.4 282.1 l S
+n 478.8 297.6 m 478.8 282.1 l S
+n 529.2 297.6 m 529.2 282.1 l S
+n 590.4 297.6 m 590.4 282.1 l S
+n 64.8 297.6 m 590.4 297.6 l S
+n 64.8 282.1 m 590.4 282.1 l S
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 5 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 5 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F2-0 36 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 25211
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (LEGAL / FINANCIAL RECORD \227 SYNTHETIC DATA) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 64.8 720 Tm (4. Multi-Page Financial Ledger \(continued\)) Tj T* ET
+.866667 .866667 .866667 rg
+n 64.8 690.1 525.6 15.5 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.8096 694.1 Tm (Item) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 694.1 Tm (Description) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 694.1 Tm (Category) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.0644 694.1 Tm (Qty) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 318.0576 694.1 Tm (Unit Price) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 360.3096 694.1 Tm (Discount) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 413.6836 694.1 Tm (Tax) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 464.8452 694.1 Tm (Net) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6096 694.1 Tm (Status) Tj T* ET
+BT /F2 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 539.7706 694.1 Tm (Review Date) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 705.6 m 64.8 690.1 l S
+n 100.8 705.6 m 100.8 690.1 l S
+n 212.4 705.6 m 212.4 690.1 l S
+n 273.6 705.6 m 273.6 690.1 l S
+n 302.4 705.6 m 302.4 690.1 l S
+n 352.8 705.6 m 352.8 690.1 l S
+n 392.4 705.6 m 392.4 690.1 l S
+n 428.4 705.6 m 428.4 690.1 l S
+n 478.8 705.6 m 478.8 690.1 l S
+n 529.2 705.6 m 529.2 690.1 l S
+n 590.4 705.6 m 590.4 690.1 l S
+n 64.8 705.6 m 590.4 705.6 l S
+n 64.8 690.1 m 590.4 690.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 678.6 Tm (1024) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 678.6 Tm (Long unbroken descriptor string: XZQPLM-) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 678.6 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 678.6 Tm (3) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 678.6 Tm (4,641.01) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 678.6 Tm (5%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 678.6 Tm (371.28) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 678.6 Tm (4,269.73) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 678.6 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 678.6 Tm (2026-05-13) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 690.1 m 64.8 674.6 l S
+n 100.8 690.1 m 100.8 674.6 l S
+n 212.4 690.1 m 212.4 674.6 l S
+n 273.6 690.1 m 273.6 674.6 l S
+n 302.4 690.1 m 302.4 674.6 l S
+n 352.8 690.1 m 352.8 674.6 l S
+n 392.4 690.1 m 392.4 674.6 l S
+n 428.4 690.1 m 428.4 674.6 l S
+n 478.8 690.1 m 478.8 674.6 l S
+n 529.2 690.1 m 529.2 674.6 l S
+n 590.4 690.1 m 590.4 674.6 l S
+n 64.8 690.1 m 590.4 690.1 l S
+n 64.8 674.6 m 590.4 674.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 663.1 Tm (1025) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 663.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 663.1 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 663.1 Tm (8) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 663.1 Tm (2,162.41) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 663.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 663.1 Tm (172.99) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 663.1 Tm (1,989.42) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 495.4226 663.1 Tm (Active) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 663.1 Tm (2026-02-08) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 674.6 m 64.8 659.1 l S
+n 100.8 674.6 m 100.8 659.1 l S
+n 212.4 674.6 m 212.4 659.1 l S
+n 273.6 674.6 m 273.6 659.1 l S
+n 302.4 674.6 m 302.4 659.1 l S
+n 352.8 674.6 m 352.8 659.1 l S
+n 392.4 674.6 m 392.4 659.1 l S
+n 428.4 674.6 m 428.4 659.1 l S
+n 478.8 674.6 m 478.8 659.1 l S
+n 529.2 674.6 m 529.2 659.1 l S
+n 590.4 674.6 m 590.4 659.1 l S
+n 64.8 674.6 m 590.4 674.6 l S
+n 64.8 659.1 m 590.4 659.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 647.6 Tm (1026) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 647.6 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 647.6 Tm (Hardware) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 647.6 Tm (8) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 334.0374 647.6 Tm (56.22) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 647.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 413.1402 647.6 Tm (4.50) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 460.0374 647.6 Tm (51.72) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 495.4226 647.6 Tm (Active) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 647.6 Tm (2026-10-08) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 659.1 m 64.8 643.6 l S
+n 100.8 659.1 m 100.8 643.6 l S
+n 212.4 659.1 m 212.4 643.6 l S
+n 273.6 659.1 m 273.6 643.6 l S
+n 302.4 659.1 m 302.4 643.6 l S
+n 352.8 659.1 m 352.8 643.6 l S
+n 392.4 659.1 m 392.4 643.6 l S
+n 428.4 659.1 m 428.4 643.6 l S
+n 478.8 659.1 m 478.8 643.6 l S
+n 529.2 659.1 m 529.2 643.6 l S
+n 590.4 659.1 m 590.4 643.6 l S
+n 64.8 659.1 m 590.4 659.1 l S
+n 64.8 643.6 m 590.4 643.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 632.1 Tm (1027) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 632.1 Tm (Recurring maintenance allocation) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 632.1 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 632.1 Tm (0) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 632.1 Tm (1,106.16) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 632.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 632.1 Tm (88.49) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 632.1 Tm (1,017.67) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.1972 632.1 Tm (Closed) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 632.1 Tm (2026-02-17) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 643.6 m 64.8 628.1 l S
+n 100.8 643.6 m 100.8 628.1 l S
+n 212.4 643.6 m 212.4 628.1 l S
+n 273.6 643.6 m 273.6 628.1 l S
+n 302.4 643.6 m 302.4 628.1 l S
+n 352.8 643.6 m 352.8 628.1 l S
+n 392.4 643.6 m 392.4 628.1 l S
+n 428.4 643.6 m 428.4 628.1 l S
+n 478.8 643.6 m 478.8 628.1 l S
+n 529.2 643.6 m 529.2 628.1 l S
+n 590.4 643.6 m 590.4 628.1 l S
+n 64.8 643.6 m 590.4 643.6 l S
+n 64.8 628.1 m 590.4 628.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 616.6 Tm (1028) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 616.6 Tm (Long unbroken descriptor string: XZQPLM-) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 616.6 Tm (Consulting) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.8979 616.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 616.6 Tm (1,031.90) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 616.6 Tm (5%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 616.6 Tm (82.55) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 616.6 Tm (949.35) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4427 616.6 Tm (Pending) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 616.6 Tm (2026-10-19) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 628.1 m 64.8 612.6 l S
+n 100.8 628.1 m 100.8 612.6 l S
+n 212.4 628.1 m 212.4 612.6 l S
+n 273.6 628.1 m 273.6 612.6 l S
+n 302.4 628.1 m 302.4 612.6 l S
+n 352.8 628.1 m 352.8 612.6 l S
+n 392.4 628.1 m 392.4 612.6 l S
+n 428.4 628.1 m 428.4 612.6 l S
+n 478.8 628.1 m 478.8 612.6 l S
+n 529.2 628.1 m 529.2 612.6 l S
+n 590.4 628.1 m 590.4 612.6 l S
+n 64.8 628.1 m 590.4 628.1 l S
+n 64.8 612.6 m 590.4 612.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 601.1 Tm (1029) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 601.1 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 601.1 Tm (Consulting) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.8979 601.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 601.1 Tm (4,027.86) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 601.1 Tm (5%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 601.1 Tm (322.23) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 601.1 Tm (3,705.63) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.1972 601.1 Tm (Closed) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 601.1 Tm (2026-02-22) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 612.6 m 64.8 597.1 l S
+n 100.8 612.6 m 100.8 597.1 l S
+n 212.4 612.6 m 212.4 597.1 l S
+n 273.6 612.6 m 273.6 597.1 l S
+n 302.4 612.6 m 302.4 597.1 l S
+n 352.8 612.6 m 352.8 597.1 l S
+n 392.4 612.6 m 392.4 597.1 l S
+n 428.4 612.6 m 428.4 597.1 l S
+n 478.8 612.6 m 478.8 597.1 l S
+n 529.2 612.6 m 529.2 597.1 l S
+n 590.4 612.6 m 590.4 597.1 l S
+n 64.8 612.6 m 590.4 612.6 l S
+n 64.8 597.1 m 590.4 597.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 585.6 Tm (1030) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 585.6 Tm (Long unbroken descriptor string: XZQPLM-) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 585.6 Tm (Hardware) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 292.3944 585.6 Tm (12) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 585.6 Tm (2,026.07) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 585.6 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 585.6 Tm (162.09) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 585.6 Tm (1,863.98) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 495.4226 585.6 Tm (Active) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 585.6 Tm (2026-11-21) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 597.1 m 64.8 581.6 l S
+n 100.8 597.1 m 100.8 581.6 l S
+n 212.4 597.1 m 212.4 581.6 l S
+n 273.6 597.1 m 273.6 581.6 l S
+n 302.4 597.1 m 302.4 581.6 l S
+n 352.8 597.1 m 352.8 581.6 l S
+n 392.4 597.1 m 392.4 581.6 l S
+n 428.4 597.1 m 428.4 581.6 l S
+n 478.8 597.1 m 478.8 581.6 l S
+n 529.2 597.1 m 529.2 581.6 l S
+n 590.4 597.1 m 590.4 581.6 l S
+n 64.8 597.1 m 590.4 597.1 l S
+n 64.8 581.6 m 590.4 581.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 570.1 Tm (1031) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 570.1 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 570.1 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 292.3944 570.1 Tm (12) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 570.1 Tm (3,627.48) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 570.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 570.1 Tm (290.20) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 570.1 Tm (3,337.28) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 570.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 570.1 Tm (2026-04-07) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 581.6 m 64.8 566.1 l S
+n 100.8 581.6 m 100.8 566.1 l S
+n 212.4 581.6 m 212.4 566.1 l S
+n 273.6 581.6 m 273.6 566.1 l S
+n 302.4 581.6 m 302.4 566.1 l S
+n 352.8 581.6 m 352.8 566.1 l S
+n 392.4 581.6 m 392.4 566.1 l S
+n 428.4 581.6 m 428.4 566.1 l S
+n 478.8 581.6 m 478.8 566.1 l S
+n 529.2 581.6 m 529.2 566.1 l S
+n 590.4 581.6 m 590.4 566.1 l S
+n 64.8 581.6 m 590.4 581.6 l S
+n 64.8 566.1 m 590.4 566.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 554.6 Tm (1032) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 554.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 554.6 Tm (Hardware) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 554.6 Tm (2) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 554.6 Tm (2,080.50) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 554.6 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 554.6 Tm (166.44) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 554.6 Tm (1,914.06) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 554.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 554.6 Tm (2026-04-28) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 566.1 m 64.8 550.6 l S
+n 100.8 566.1 m 100.8 550.6 l S
+n 212.4 566.1 m 212.4 550.6 l S
+n 273.6 566.1 m 273.6 550.6 l S
+n 302.4 566.1 m 302.4 550.6 l S
+n 352.8 566.1 m 352.8 550.6 l S
+n 392.4 566.1 m 392.4 550.6 l S
+n 428.4 566.1 m 428.4 550.6 l S
+n 478.8 566.1 m 478.8 550.6 l S
+n 529.2 566.1 m 529.2 550.6 l S
+n 590.4 566.1 m 590.4 550.6 l S
+n 64.8 566.1 m 590.4 566.1 l S
+n 64.8 550.6 m 590.4 550.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 539.1 Tm (1033) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 539.1 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 539.1 Tm (Logistics) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 539.1 Tm (1) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 539.1 Tm (205.47) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 539.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 539.1 Tm (16.44) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 539.1 Tm (189.03) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4427 539.1 Tm (Pending) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 539.1 Tm (2026-02-25) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 550.6 m 64.8 535.1 l S
+n 100.8 550.6 m 100.8 535.1 l S
+n 212.4 550.6 m 212.4 535.1 l S
+n 273.6 550.6 m 273.6 535.1 l S
+n 302.4 550.6 m 302.4 535.1 l S
+n 352.8 550.6 m 352.8 535.1 l S
+n 392.4 550.6 m 392.4 535.1 l S
+n 428.4 550.6 m 428.4 535.1 l S
+n 478.8 550.6 m 478.8 535.1 l S
+n 529.2 550.6 m 529.2 535.1 l S
+n 590.4 550.6 m 590.4 535.1 l S
+n 64.8 550.6 m 590.4 550.6 l S
+n 64.8 535.1 m 590.4 535.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 523.6 Tm (1034) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 523.6 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 523.6 Tm (Services) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 523.6 Tm (2) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 523.6 Tm (2,002.39) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 523.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 523.6 Tm (160.19) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 523.6 Tm (1,842.20) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 523.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 523.6 Tm (2026-07-02) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 535.1 m 64.8 519.6 l S
+n 100.8 535.1 m 100.8 519.6 l S
+n 212.4 535.1 m 212.4 519.6 l S
+n 273.6 535.1 m 273.6 519.6 l S
+n 302.4 535.1 m 302.4 519.6 l S
+n 352.8 535.1 m 352.8 519.6 l S
+n 392.4 535.1 m 392.4 519.6 l S
+n 428.4 535.1 m 428.4 519.6 l S
+n 478.8 535.1 m 478.8 519.6 l S
+n 529.2 535.1 m 529.2 519.6 l S
+n 590.4 535.1 m 590.4 519.6 l S
+n 64.8 535.1 m 590.4 535.1 l S
+n 64.8 519.6 m 590.4 519.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 508.1 Tm (1035) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 508.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 508.1 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 508.1 Tm (0) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 508.1 Tm (4,925.81) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 508.1 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 508.1 Tm (394.06) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 508.1 Tm (4,531.75) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 493.6743 508.1 Tm (Review) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 508.1 Tm (2026-05-14) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 519.6 m 64.8 504.1 l S
+n 100.8 519.6 m 100.8 504.1 l S
+n 212.4 519.6 m 212.4 504.1 l S
+n 273.6 519.6 m 273.6 504.1 l S
+n 302.4 519.6 m 302.4 504.1 l S
+n 352.8 519.6 m 352.8 504.1 l S
+n 392.4 519.6 m 392.4 504.1 l S
+n 428.4 519.6 m 428.4 504.1 l S
+n 478.8 519.6 m 478.8 504.1 l S
+n 529.2 519.6 m 529.2 504.1 l S
+n 590.4 519.6 m 590.4 504.1 l S
+n 64.8 519.6 m 590.4 519.6 l S
+n 64.8 504.1 m 590.4 504.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 492.6 Tm (1036) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 492.6 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 492.6 Tm (Software) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 288.8979 492.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 492.6 Tm (731.72) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 376.7937 492.6 Tm (10%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 492.6 Tm (58.54) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 492.6 Tm (673.18) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 500.85 492.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 492.6 Tm (2026-01-19) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 504.1 m 64.8 488.6 l S
+n 100.8 504.1 m 100.8 488.6 l S
+n 212.4 504.1 m 212.4 488.6 l S
+n 273.6 504.1 m 273.6 488.6 l S
+n 302.4 504.1 m 302.4 488.6 l S
+n 352.8 504.1 m 352.8 488.6 l S
+n 392.4 504.1 m 392.4 488.6 l S
+n 428.4 504.1 m 428.4 488.6 l S
+n 478.8 504.1 m 478.8 488.6 l S
+n 529.2 504.1 m 529.2 488.6 l S
+n 590.4 504.1 m 590.4 488.6 l S
+n 64.8 504.1 m 590.4 504.1 l S
+n 64.8 488.6 m 590.4 488.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 477.1 Tm (1037) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 477.1 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 477.1 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 477.1 Tm (0) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 477.1 Tm (3,727.28) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 380.2965 477.1 Tm (0%) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 477.1 Tm (298.18) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 477.1 Tm (3,429.10) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 500.85 477.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 477.1 Tm (2026-10-16) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 488.6 m 64.8 473.1 l S
+n 100.8 488.6 m 100.8 473.1 l S
+n 212.4 488.6 m 212.4 473.1 l S
+n 273.6 488.6 m 273.6 473.1 l S
+n 302.4 488.6 m 302.4 473.1 l S
+n 352.8 488.6 m 352.8 473.1 l S
+n 392.4 488.6 m 392.4 473.1 l S
+n 428.4 488.6 m 428.4 473.1 l S
+n 478.8 488.6 m 478.8 473.1 l S
+n 529.2 488.6 m 529.2 473.1 l S
+n 590.4 488.6 m 590.4 473.1 l S
+n 64.8 488.6 m 590.4 488.6 l S
+n 64.8 473.1 m 590.4 473.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 461.6 Tm (1038) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 461.6 Tm (Synthetic component evaluation unit) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 461.6 Tm (Maintenance) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 461.6 Tm (2) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 330.5346 461.6 Tm (237.24) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 461.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 461.6 Tm (18.98) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 456.5346 461.6 Tm (218.26) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 495.4226 461.6 Tm (Active) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 461.6 Tm (2026-03-03) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 473.1 m 64.8 457.6 l S
+n 100.8 473.1 m 100.8 457.6 l S
+n 212.4 473.1 m 212.4 457.6 l S
+n 273.6 473.1 m 273.6 457.6 l S
+n 302.4 473.1 m 302.4 457.6 l S
+n 352.8 473.1 m 352.8 457.6 l S
+n 392.4 473.1 m 392.4 457.6 l S
+n 428.4 473.1 m 428.4 457.6 l S
+n 478.8 473.1 m 478.8 457.6 l S
+n 529.2 473.1 m 529.2 457.6 l S
+n 590.4 473.1 m 590.4 457.6 l S
+n 64.8 473.1 m 590.4 473.1 l S
+n 64.8 457.6 m 590.4 457.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 446.1 Tm (1039) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 446.1 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 446.1 Tm (Hardware) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 446.1 Tm (3) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 446.1 Tm (1,989.07) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 446.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 446.1 Tm (159.13) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 446.1 Tm (1,829.94) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 500.85 446.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 446.1 Tm (2026-10-20) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 457.6 m 64.8 442.1 l S
+n 100.8 457.6 m 100.8 442.1 l S
+n 212.4 457.6 m 212.4 442.1 l S
+n 273.6 457.6 m 273.6 442.1 l S
+n 302.4 457.6 m 302.4 442.1 l S
+n 352.8 457.6 m 352.8 442.1 l S
+n 392.4 457.6 m 392.4 442.1 l S
+n 428.4 457.6 m 428.4 442.1 l S
+n 478.8 457.6 m 478.8 442.1 l S
+n 529.2 457.6 m 529.2 442.1 l S
+n 590.4 457.6 m 590.4 442.1 l S
+n 64.8 457.6 m 590.4 457.6 l S
+n 64.8 442.1 m 590.4 442.1 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 430.6 Tm (1040) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 430.6 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 430.6 Tm (Licensing) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 430.6 Tm (1) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 430.6 Tm (2,067.09) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 378.8979 430.6 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 406.1346 430.6 Tm (165.37) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 430.6 Tm (1,901.72) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4427 430.6 Tm (Pending) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 430.6 Tm (2026-09-11) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 442.1 m 64.8 426.6 l S
+n 100.8 442.1 m 100.8 426.6 l S
+n 212.4 442.1 m 212.4 426.6 l S
+n 273.6 442.1 m 273.6 426.6 l S
+n 302.4 442.1 m 302.4 426.6 l S
+n 352.8 442.1 m 352.8 426.6 l S
+n 392.4 442.1 m 392.4 426.6 l S
+n 428.4 442.1 m 428.4 426.6 l S
+n 478.8 442.1 m 478.8 426.6 l S
+n 529.2 442.1 m 529.2 426.6 l S
+n 590.4 442.1 m 590.4 426.6 l S
+n 64.8 442.1 m 590.4 442.1 l S
+n 64.8 426.6 m 590.4 426.6 l S
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.7944 415.1 Tm (1041) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 103.8 415.1 Tm (Placeholder consulting engagement block) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 215.4 415.1 Tm (Licensing) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 295.8972 415.1 Tm (8) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 325.2804 415.1 Tm (1,155.36) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 383.1 415.1 Tm (\227) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 409.6374 415.1 Tm (92.43) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 451.2804 415.1 Tm (1,062.93) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 498.7489 415.1 Tm (N/A) Tj T* ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 543.6909 415.1 Tm (2026-11-21) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 426.6 m 64.8 411.1 l S
+n 100.8 426.6 m 100.8 411.1 l S
+n 212.4 426.6 m 212.4 411.1 l S
+n 273.6 426.6 m 273.6 411.1 l S
+n 302.4 426.6 m 302.4 411.1 l S
+n 352.8 426.6 m 352.8 411.1 l S
+n 392.4 426.6 m 392.4 411.1 l S
+n 428.4 426.6 m 428.4 411.1 l S
+n 478.8 426.6 m 478.8 411.1 l S
+n 529.2 426.6 m 529.2 411.1 l S
+n 590.4 426.6 m 590.4 411.1 l S
+n 64.8 426.6 m 590.4 426.6 l S
+n 64.8 411.1 m 590.4 411.1 l S
+BT /F3 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 397.1 Tm (\227 End of Section 4 Ledger Table \227) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 61.6 Tm ([4] Ledger values are entirely synthetic and randomly generated for benchmark purposes.) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 6 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 6 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F2 8 0 R
+/F2-0 40 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 5139
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (CONFIDENTIAL \227 DOCUMENT EXTRACTION TEST) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 249.092 752.4 Tm (5. Merged-Cell & Nested Tables) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (5. Merged-Cell & Nested Tables) Tj T* ET
+.811765 .811765 .811765 rg
+n 64.8 675.2 374.4 16 re B*
+0 0 0 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 154.2375 679.7 Tm (FINANCIAL DATA \(merged across 4 columns\)) Tj T* ET
+.901961 .901961 .901961 rg
+n 64.8 659.2 374.4 16 re B*
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 105.9305 663.7 Tm (Q1) Tj T* ET
+BT 1 0 0 1 199.5305 663.7 Tm (Q2) Tj T* ET
+.533333 .533333 .533333 RG
+n 158.4 675.2 m 158.4 659.2 l S
+BT 1 0 0 1 293.1305 663.7 Tm (Q3) Tj T* ET
+.533333 .533333 .533333 RG
+n 252 675.2 m 252 659.2 l S
+BT 1 0 0 1 386.7305 663.7 Tm (Q4) Tj T* ET
+.533333 .533333 .533333 RG
+n 345.6 675.2 m 345.6 659.2 l S
+.94902 .94902 .94902 rg
+n 64.8 643.2 374.4 16 re B*
+0 0 0 rg
+BT /F1 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 83.93985 648.2 Tm (Actual/Forecast/Var) Tj T* ET
+BT 1 0 0 1 177.5399 648.2 Tm (Actual/Forecast/Var) Tj T* ET
+n 158.4 659.2 m 158.4 643.2 l S
+BT 1 0 0 1 271.1399 648.2 Tm (Actual/Forecast/Var) Tj T* ET
+n 252 659.2 m 252 643.2 l S
+BT 1 0 0 1 364.7399 648.2 Tm (Actual/Forecast/Var) Tj T* ET
+n 345.6 659.2 m 345.6 643.2 l S
+BT /F2 7.5 Tf 9 TL ET
+n -14.4 611.2 79.2 32 re S
+q
+1 0 0 1 -6.4 627.2 cm
+BT 1 0 0 1 0 0 Tm (Region A) Tj T* ET
+BT 1 0 0 1 0 -10 Tm (\(rowspan=2\)) Tj T* ET
+Q
+BT /F1 6.8 Tf 8.16 TL ET
+n 64.8 627.2 374.4 16 re S
+BT 1 0 0 1 77.4776 632.2 Tm (12,000 / 11,500 / +500) Tj T* ET
+BT 1 0 0 1 173.8214 632.2 Tm (9,800 / 10,000 / -200) Tj T* ET
+n 158.4 643.2 m 158.4 627.2 l S
+BT 1 0 0 1 264.6776 632.2 Tm (15,220 / 14,900 / +320) Tj T* ET
+n 252 643.2 m 252 627.2 l S
+BT 1 0 0 1 360.168 632.2 Tm (10,010 / 9,900 / +110) Tj T* ET
+n 345.6 643.2 m 345.6 627.2 l S
+BT /F1 6.8 Tf 8.16 TL ET
+n 64.8 611.2 374.4 16 re S
+BT 1 0 0 1 82.1118 616.2 Tm (8,400 / 8,600 / -200) Tj T* ET
+BT 1 0 0 1 174.8584 616.2 Tm (7,750 / 7,500 / +250) Tj T* ET
+n 158.4 627.2 m 158.4 611.2 l S
+BT 1 0 0 1 274.2248 616.2 Tm (6,300 / 6,300 / 0) Tj T* ET
+n 252 627.2 m 252 611.2 l S
+BT 1 0 0 1 362.0584 616.2 Tm (9,950 / 9,700 / +250) Tj T* ET
+n 345.6 627.2 m 345.6 611.2 l S
+.333333 .333333 .333333 RG
+1 w
+n -14.4 611.2 453.6 80 re S
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 64.8 571.2 Tm (5.1 Nested Table Example) Tj T* ET
+0 0 0 rg
+BT /F4 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 64.8 555.2 Tm (Outer table with a nested inner table physically contained within the 'Details' cell of the third row.) Tj T* ET
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+.866667 .866667 .866667 rg
+n 64.8 515.2 396 16 re B*
+0 0 0 rg
+BT 1 0 0 1 68.8 520.2 Tm (Category) Tj T* ET
+BT 1 0 0 1 162.4 520.2 Tm (Details) Tj T* ET
+BT 1 0 0 1 392.8 520.2 Tm (Amount) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+n 64.8 497.2 396 18 re S
+BT 1 0 0 1 68.8 502.2 Tm (Equipment) Tj T* ET
+BT 1 0 0 1 162.4 502.2 Tm (Standard synthetic hardware allocation) Tj T* ET
+BT 1 0 0 1 392.8 502.2 Tm (4,820.00) Tj T* ET
+n 64.8 433.2 93.6 64 re S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 68.8 484.2 Tm (Services) Tj T* ET
+n 388.8 433.2 72 64 re S
+BT 1 0 0 1 392.8 484.2 Tm (1,940.35) Tj T* ET
+.2 .2 .2 RG
+n 158.4 433.2 230.4 64 re S
+.866667 .866667 .866667 rg
+n 168.4 473.2 129.6 12 re f*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 171.4 477.2 Tm (Metric) Tj T* ET
+BT /F2 7.5 Tf 9 TL ET
+0 0 0 rg
+BT 1 0 0 1 243.4 477.2 Tm (Value) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 168.4 485.2 m 168.4 473.2 l S
+n 240.4 485.2 m 240.4 473.2 l S
+n 298 485.2 m 298 473.2 l S
+n 168.4 485.2 m 298 485.2 l S
+n 168.4 473.2 m 298 473.2 l S
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 171.4 465.2 Tm (Rate) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 243.4 465.2 Tm (7.25%) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 168.4 473.2 m 168.4 461.2 l S
+n 240.4 473.2 m 240.4 461.2 l S
+n 298 473.2 m 298 461.2 l S
+n 168.4 473.2 m 298 473.2 l S
+n 168.4 461.2 m 298 461.2 l S
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 171.4 453.2 Tm (Units) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 243.4 453.2 Tm (48) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 168.4 461.2 m 168.4 449.2 l S
+n 240.4 461.2 m 240.4 449.2 l S
+n 298 461.2 m 298 449.2 l S
+n 168.4 461.2 m 298 461.2 l S
+n 168.4 449.2 m 298 449.2 l S
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 171.4 441.2 Tm (Flag) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 243.4 441.2 Tm (Y) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 168.4 449.2 m 168.4 437.2 l S
+n 240.4 449.2 m 240.4 437.2 l S
+n 298 449.2 m 298 437.2 l S
+n 168.4 449.2 m 298 449.2 l S
+n 168.4 437.2 m 298 437.2 l S
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 7 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 7 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+41 0 obj
+<<
+/Contents 42 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 43 0 R
+/F2 8 0 R
+/F2-0 44 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 4811
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (CONFIDENTIAL \227 DOCUMENT EXTRACTION TEST) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 247.972 752.4 Tm (6. Typography & Encoding Tests) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (6. Typography & Encoding Tests) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 694.8 Tm (Ligatures) Tj T* ET
+BT /F6 10 Tf 12 TL ET
+BT 1 0 0 1 64.8 680.8 Tm (financial \227 official \227 efficient \227 affiliation) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 656.8 Tm (Superscripts & Subscripts) Tj T* ET
+q
+1 0 0 1 64.8 630.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (x) Tj /F1 8 Tf 5 Ts (2) Tj /F1 10 Tf 0 Ts ( x) Tj /F1 8 Tf 5 Ts (3) Tj /F1 10 Tf 0 Ts ( H) Tj /F1 8 Tf -5 Ts (2) Tj /F1 10 Tf 0 Ts (O CO) Tj /F1 8 Tf -5 Ts (2) Tj /F1 10 Tf 0 Ts ( E = mc) Tj /F1 8 Tf 5 Ts (2) Tj /F1 10 Tf 0 Ts ( a) Tj /F1 8 Tf -5 Ts (1) Tj /F1 10 Tf 0 Ts ( + a) Tj /F1 8 Tf -5 Ts (2) Tj /F1 10 Tf 0 Ts ( + a) Tj /F1 8 Tf -5 Ts (3) Tj T* ET
+Q
+Q
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 614.8 Tm (Mathematical Symbols) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 64.8 600.8 Tm /F7 12 Tf 14.4 TL (\345) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (\362) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (\326) Tj /F1 12 Tf 14.4 TL (  \261  ) Tj /F7 12 Tf 14.4 TL (\243) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (\263) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (\271) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (\273) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (\245) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (D) Tj /F1 12 Tf 14.4 TL (  ) Tj /F7 12 Tf 14.4 TL (p) Tj /F1 12 Tf 14.4 TL T* ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 64.8 577.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg /F7 10 Tf 12 TL (S) Tj /F1 10 Tf 12 TL /F1 8 Tf -5 Ts (i=1) Tj 5 Ts (n) Tj /F1 10 Tf 0 Ts ( x) Tj /F1 8 Tf -5 Ts (i) Tj /F1 10 Tf 0 Ts ( \(sum over i from 1 to n of x-sub-i\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 64.8 561.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg /F7 10 Tf 12 TL (\362) Tj /F1 10 Tf 12 TL /F1 8 Tf -5 Ts (0) Tj 5 Ts (1) Tj /F1 10 Tf 0 Ts ( f\(x\) dx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 64.8 545.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg /F7 10 Tf 12 TL (\326) Tj /F1 10 Tf 12 TL (\(x) Tj /F1 8 Tf 5 Ts (2) Tj /F1 10 Tf 0 Ts ( + y) Tj /F1 8 Tf 5 Ts (2) Tj /F1 10 Tf 0 Ts (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 64.8 529.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg /F7 10 Tf 12 TL (D) Tj /F1 10 Tf 12 TL (P = P) Tj /F1 8 Tf -5 Ts (2) Tj /F1 10 Tf 0 Ts ( ) Tj /F7 10 Tf 12 TL (-) Tj /F1 10 Tf 12 TL ( P) Tj /F1 8 Tf -5 Ts (1) Tj T* ET
+Q
+Q
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 510.8 Tm (Encoding Artifacts \(intentional noise\)) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 496.8 Tm (\342\200\231 quotes: \342\200\234quoted text\342\200) Tj T* ET
+BT 1 0 0 1 64.8 483.8 Tm (\302\251 \302\261 \342\200\223 \342\200\224 \177 \205) Tj T* ET
+BT 1 0 0 1 64.8 470.8 Tm (Clean text mixed with \227 em dash \227 and \226 en dash \226, \223curly quotes\224, 'straight quotes', apostrophe's.) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 451.8 Tm (Multiple Fonts on One Line) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 64.8 437.8 Tm (Bold) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 87.02 437.8 Tm ( normal ) Tj T* ET
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 123.14 437.8 Tm (italic ) Tj T* ET
+BT /F5 10 Tf 12 TL ET
+BT 1 0 0 1 145.92 437.8 Tm (monospace ) Tj T* ET
+BT /F8 10 Tf 12 TL ET
+BT 1 0 0 1 205.92 437.8 Tm (bold italic ) Tj T* ET
+BT /F4 10 Tf 12 TL ET
+BT 1 0 0 1 255.38 437.8 Tm (SMALL CAPS) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 413.8 Tm (Font Family Sampler \(4 families\)) Tj T* ET
+BT /F4 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 399.8 Tm (Serif \227 Times-Roman sample text) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 386.8 Tm (Sans \227 Helvetica sample text) Tj T* ET
+BT /F5 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 373.8 Tm (Monospace \227 Courier sample text) Tj T* ET
+BT /F3 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 360.8 Tm (Sans Italic \227 Helvetica-Oblique sample text) Tj T* ET
+q
+0 -1 1 0 586.8 576 cm
+BT /F2 9 Tf 10.8 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 0 0 Tm (SECTION 04) Tj T* ET
+Q
+q
+0 1 -1 0 25.2 180 cm
+BT /F2 9 Tf 10.8 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 0 0 Tm (CONFIDENTIAL) Tj T* ET
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 8 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 8 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+44 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 47 0 R
+/F2 8 0 R
+/F2-0 48 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 3528
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (LEGAL / FINANCIAL RECORD \227 SYNTHETIC DATA) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (7. Synthetic Form / Record Extraction) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 691.2 Tm (Key-Value Pairs) Tj T* ET
+BT /F5 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 675.2 Tm (Invoice ID: ................. 98402) Tj T* ET
+BT 1 0 0 1 64.8 662.2 Tm (Customer ID: ______________ CX-771) Tj T* ET
+BT 1 0 0 1 64.8 649.2 Tm (Reference No.: .............. REF-2026-0048) Tj T* ET
+BT 1 0 0 1 64.8 636.2 Tm (Account Type: ............... Enterprise) Tj T* ET
+BT 1 0 0 1 64.8 623.2 Tm (Processing Status: .......... Pending Review) Tj T* ET
+BT 1 0 0 1 64.8 610.2 Tm (Amount Due: .................. $13,977.60) Tj T* ET
+BT 1 0 0 1 64.8 597.2 Tm (Review Date: ................ 2026-09-15) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 574.2 Tm (Checkboxes) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 558.2 Tm ([X] Approved) Tj T* ET
+.2 .2 .2 RG
+n 208.8 560.2 8 8 re S
+BT 1 0 0 1 64.8 545.2 Tm ([ ] Rejected) Tj T* ET
+.2 .2 .2 RG
+n 208.8 547.2 8 8 re S
+BT 1 0 0 1 64.8 532.2 Tm ([X] Requires Review) Tj T* ET
+.2 .2 .2 RG
+n 208.8 534.2 8 8 re S
+BT 1 0 0 1 64.8 519.2 Tm ([ ] Escalated) Tj T* ET
+.2 .2 .2 RG
+n 208.8 521.2 8 8 re S
+BT 1 0 0 1 64.8 506.2 Tm ([ ] Archived) Tj T* ET
+.2 .2 .2 RG
+n 208.8 508.2 8 8 re S
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 483.2 Tm (Radio Button Groups) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 467.2 Tm (\() Tj /F9 9.5 Tf 11.4 TL (l) Tj /F1 9.5 Tf 11.4 TL (\) Monthly     \() Tj /F9 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (\) Quarterly     \() Tj /F9 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (\) Annual) Tj T* ET
+BT 1 0 0 1 64.8 453.2 Tm (\() Tj /F9 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (\) Low          \() Tj /F9 9.5 Tf 11.4 TL (l) Tj /F1 9.5 Tf 11.4 TL (\) Medium        \() Tj /F9 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (\) High) Tj T* ET
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 429.2 Tm (Signature Block) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 409.2 Tm (Authorized Representative: ______________________________) Tj T* ET
+BT 1 0 0 1 64.8 391.2 Tm (Signature: ______________________________________________) Tj T* ET
+BT 1 0 0 1 64.8 373.2 Tm (Date: __________________) Tj T* ET
+BT 1 0 0 1 64.8 347.2 Tm (Reviewer: ________________________________________________) Tj T* ET
+BT 1 0 0 1 64.8 329.2 Tm (Signature: ______________________________________________) Tj T* ET
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 648 Tm (Reviewer) Tj T* ET
+BT 1 0 0 1 558 640 Tm (comment:) Tj T* ET
+BT 1 0 0 1 558 632 Tm (table) Tj T* ET
+BT 1 0 0 1 558 624 Tm (continues) Tj T* ET
+0 0 0 rg
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 463.928 39.6 Tm (Page 9 of {TOTALPAGES}) Tj T* ET
+BT /F3 6 Tf 7.2 TL ET
+BT 1 0 0 1 104.244 29.6 Tm (This document is synthetic and intended solely for document-processing evaluation. No real transaction, person, account, or legal matter is represented.) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 507.503 39.6 Tm
+(Page 9 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+49 0 obj
+<<
+/Contents 50 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 51 0 R
+/F2 8 0 R
+/F2-0 52 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 5605
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (TECHNICAL REVIEW | SECTION 04) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 64.8 720 Tm (8. Reading-Order Stress Test \227 Page A) Tj T* ET
+0 0 0 rg
+BT /F4 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 698.4 Tm (Full-width heading and introductory paragraph. The layout below intentionally places a sidebar and floating callout so that visual) Tj T* ET
+BT 1 0 0 1 64.8 686.9 Tm (top-to-bottom order differs from the intended logical reading order.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 64.8 666 Tm (Main body text begins in column one, positioned) Tj T* ET
+BT 1 0 0 1 64.8 654.5 Tm (at the top of the content region. This text should) Tj T* ET
+BT 1 0 0 1 64.8 643 Tm (be read first according to logical order, even) Tj T* ET
+BT 1 0 0 1 64.8 631.5 Tm (though a sidebar element to its right begins at a) Tj T* ET
+BT 1 0 0 1 64.8 620 Tm (higher visual position on the page and a floating) Tj T* ET
+BT 1 0 0 1 64.8 608.5 Tm (callout crosses between the two text columns) Tj T* ET
+BT 1 0 0 1 64.8 597 Tm (lower on the page.) Tj T* ET
+0 0 0 rg
+.933333 .94902 .968627 rg
+n 248.4 586.8 93.6 115.2 re B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 253.4 630 Tm (SIDEBAR) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 253.4 619.2 Tm (Sidebar text begins above) Tj T* ET
+BT 1 0 0 1 253.4 610.7 Tm (the point where column two) Tj T* ET
+BT 1 0 0 1 253.4 602.2 Tm (starts, testing) Tj T* ET
+BT 1 0 0 1 253.4 593.7 Tm (spatial-vs-logical ordering.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 374.4 666 Tm (Column two begins before the sidebar visually) Tj T* ET
+BT 1 0 0 1 374.4 654.5 Tm (ends. A floating callout, positioned further down) Tj T* ET
+BT 1 0 0 1 374.4 643 Tm (the page, crosses the vertical boundary between) Tj T* ET
+BT 1 0 0 1 374.4 631.5 Tm (column one and column two, further) Tj T* ET
+BT 1 0 0 1 374.4 620 Tm (complicating naive column-detection heuristics.) Tj T* ET
+0 0 0 rg
+q
+.94902 .94902 .94902 rg
+.533333 .533333 .533333 RG
+.8 w
+n 216 507.6 136.8 46.8 re B*
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 224 540.4 Tm (EXTRACTION WARNING) Tj T* ET
+0 0 0 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 224 528.4 Tm (This callout intentionally crosses the) Tj T* ET
+BT 1 0 0 1 224 519.4 Tm (boundary between column one and) Tj T* ET
+BT 1 0 0 1 224 510.4 Tm (column two.) Tj T* ET
+0 0 0 rg
+Q
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 64.8 493.2 Tm (Continuation of column one below the callout) Tj T* ET
+BT 1 0 0 1 64.8 481.7 Tm (region, resuming the primary narrative thread) Tj T* ET
+BT 1 0 0 1 64.8 470.2 Tm (that a reading-order model must reconnect) Tj T* ET
+BT 1 0 0 1 64.8 458.7 Tm (correctly.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 374.4 493.2 Tm (Continuation of column two below the sidebar) Tj T* ET
+BT 1 0 0 1 374.4 481.7 Tm (and callout, presenting a small embedded table) Tj T* ET
+BT 1 0 0 1 374.4 470.2 Tm (for additional complexity.) Tj T* ET
+0 0 0 rg
+.866667 .866667 .866667 rg
+n 374.4 436.7 115.2 12 re f*
+0 0 0 rg
+BT /F2 7.3 Tf 8.76 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 440.7 Tm (Field) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 440.7 Tm (Value) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 448.7 m 374.4 436.7 l S
+n 424.8 448.7 m 424.8 436.7 l S
+n 489.6 448.7 m 489.6 436.7 l S
+n 374.4 448.7 m 489.6 448.7 l S
+n 374.4 436.7 m 489.6 436.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 428.7 Tm (Code) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 428.7 Tm (RO-771) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 436.7 m 374.4 424.7 l S
+n 424.8 436.7 m 424.8 424.7 l S
+n 489.6 436.7 m 489.6 424.7 l S
+n 374.4 436.7 m 489.6 436.7 l S
+n 374.4 424.7 m 489.6 424.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 416.7 Tm (State) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 416.7 Tm (Active) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 424.7 m 374.4 412.7 l S
+n 424.8 424.7 m 424.8 412.7 l S
+n 489.6 424.7 m 489.6 412.7 l S
+n 374.4 424.7 m 489.6 424.7 l S
+n 374.4 412.7 m 489.6 412.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 404.7 Tm (Flag) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 404.7 Tm (\227) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 412.7 m 374.4 400.7 l S
+n 424.8 412.7 m 424.8 400.7 l S
+n 489.6 412.7 m 489.6 400.7 l S
+n 374.4 412.7 m 489.6 412.7 l S
+n 374.4 400.7 m 489.6 400.7 l S
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 10.8 460.8 Tm (NOTE A \227) Tj T* ET
+BT 1 0 0 1 10.8 452.8 Tm (Verify source) Tj T* ET
+BT 1 0 0 1 10.8 444.8 Tm (order) Tj T* ET
+0 0 0 rg
+Q
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 417.6 Tm (See \2474.2) Tj T* ET
+0 0 0 rg
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 61.6 Tm ([5] Reading-order test footnote for Page A; visual and logical order deliberately diverge on this page.) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 460.036 39.6 Tm (Page 10 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 503.611 39.6 Tm
+(Page 10 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+51 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+52 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+53 0 obj
+<<
+/Contents 54 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 55 0 R
+/F2 8 0 R
+/F2-0 56 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 5605
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (TECHNICAL REVIEW | SECTION 04) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 64.8 720 Tm (8. Reading-Order Stress Test \227 Page B) Tj T* ET
+0 0 0 rg
+BT /F4 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 698.4 Tm (Full-width heading and introductory paragraph. The layout below intentionally places a sidebar and floating callout so that visual) Tj T* ET
+BT 1 0 0 1 64.8 686.9 Tm (top-to-bottom order differs from the intended logical reading order.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 64.8 666 Tm (Main body text begins in column one, positioned) Tj T* ET
+BT 1 0 0 1 64.8 654.5 Tm (at the top of the content region. This text should) Tj T* ET
+BT 1 0 0 1 64.8 643 Tm (be read first according to logical order, even) Tj T* ET
+BT 1 0 0 1 64.8 631.5 Tm (though a sidebar element to its right begins at a) Tj T* ET
+BT 1 0 0 1 64.8 620 Tm (higher visual position on the page and a floating) Tj T* ET
+BT 1 0 0 1 64.8 608.5 Tm (callout crosses between the two text columns) Tj T* ET
+BT 1 0 0 1 64.8 597 Tm (lower on the page.) Tj T* ET
+0 0 0 rg
+.933333 .94902 .968627 rg
+n 248.4 586.8 93.6 115.2 re B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 253.4 630 Tm (SIDEBAR) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 253.4 619.2 Tm (Sidebar text begins above) Tj T* ET
+BT 1 0 0 1 253.4 610.7 Tm (the point where column two) Tj T* ET
+BT 1 0 0 1 253.4 602.2 Tm (starts, testing) Tj T* ET
+BT 1 0 0 1 253.4 593.7 Tm (spatial-vs-logical ordering.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 374.4 666 Tm (Column two begins before the sidebar visually) Tj T* ET
+BT 1 0 0 1 374.4 654.5 Tm (ends. A floating callout, positioned further down) Tj T* ET
+BT 1 0 0 1 374.4 643 Tm (the page, crosses the vertical boundary between) Tj T* ET
+BT 1 0 0 1 374.4 631.5 Tm (column one and column two, further) Tj T* ET
+BT 1 0 0 1 374.4 620 Tm (complicating naive column-detection heuristics.) Tj T* ET
+0 0 0 rg
+q
+.94902 .94902 .94902 rg
+.533333 .533333 .533333 RG
+.8 w
+n 216 507.6 136.8 46.8 re B*
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 224 540.4 Tm (EXTRACTION WARNING) Tj T* ET
+0 0 0 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 224 528.4 Tm (This callout intentionally crosses the) Tj T* ET
+BT 1 0 0 1 224 519.4 Tm (boundary between column one and) Tj T* ET
+BT 1 0 0 1 224 510.4 Tm (column two.) Tj T* ET
+0 0 0 rg
+Q
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 64.8 493.2 Tm (Continuation of column one below the callout) Tj T* ET
+BT 1 0 0 1 64.8 481.7 Tm (region, resuming the primary narrative thread) Tj T* ET
+BT 1 0 0 1 64.8 470.2 Tm (that a reading-order model must reconnect) Tj T* ET
+BT 1 0 0 1 64.8 458.7 Tm (correctly.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 374.4 493.2 Tm (Continuation of column two below the sidebar) Tj T* ET
+BT 1 0 0 1 374.4 481.7 Tm (and callout, presenting a small embedded table) Tj T* ET
+BT 1 0 0 1 374.4 470.2 Tm (for additional complexity.) Tj T* ET
+0 0 0 rg
+.866667 .866667 .866667 rg
+n 374.4 436.7 115.2 12 re f*
+0 0 0 rg
+BT /F2 7.3 Tf 8.76 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 440.7 Tm (Field) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 440.7 Tm (Value) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 448.7 m 374.4 436.7 l S
+n 424.8 448.7 m 424.8 436.7 l S
+n 489.6 448.7 m 489.6 436.7 l S
+n 374.4 448.7 m 489.6 448.7 l S
+n 374.4 436.7 m 489.6 436.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 428.7 Tm (Code) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 428.7 Tm (RO-771) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 436.7 m 374.4 424.7 l S
+n 424.8 436.7 m 424.8 424.7 l S
+n 489.6 436.7 m 489.6 424.7 l S
+n 374.4 436.7 m 489.6 436.7 l S
+n 374.4 424.7 m 489.6 424.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 416.7 Tm (State) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 416.7 Tm (Active) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 424.7 m 374.4 412.7 l S
+n 424.8 424.7 m 424.8 412.7 l S
+n 489.6 424.7 m 489.6 412.7 l S
+n 374.4 424.7 m 489.6 424.7 l S
+n 374.4 412.7 m 489.6 412.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 404.7 Tm (Flag) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 404.7 Tm (\227) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 412.7 m 374.4 400.7 l S
+n 424.8 412.7 m 424.8 400.7 l S
+n 489.6 412.7 m 489.6 400.7 l S
+n 374.4 412.7 m 489.6 412.7 l S
+n 374.4 400.7 m 489.6 400.7 l S
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 10.8 460.8 Tm (NOTE A \227) Tj T* ET
+BT 1 0 0 1 10.8 452.8 Tm (Verify source) Tj T* ET
+BT 1 0 0 1 10.8 444.8 Tm (order) Tj T* ET
+0 0 0 rg
+Q
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 417.6 Tm (See \2474.2) Tj T* ET
+0 0 0 rg
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 61.6 Tm ([5] Reading-order test footnote for Page B; visual and logical order deliberately diverge on this page.) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 460.036 39.6 Tm (Page 11 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 503.611 39.6 Tm
+(Page 11 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+55 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+56 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+57 0 obj
+<<
+/Contents 58 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 59 0 R
+/F2 8 0 R
+/F2-0 60 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 5605
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (TECHNICAL REVIEW | SECTION 04) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 64.8 720 Tm (8. Reading-Order Stress Test \227 Page C) Tj T* ET
+0 0 0 rg
+BT /F4 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 698.4 Tm (Full-width heading and introductory paragraph. The layout below intentionally places a sidebar and floating callout so that visual) Tj T* ET
+BT 1 0 0 1 64.8 686.9 Tm (top-to-bottom order differs from the intended logical reading order.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 64.8 666 Tm (Main body text begins in column one, positioned) Tj T* ET
+BT 1 0 0 1 64.8 654.5 Tm (at the top of the content region. This text should) Tj T* ET
+BT 1 0 0 1 64.8 643 Tm (be read first according to logical order, even) Tj T* ET
+BT 1 0 0 1 64.8 631.5 Tm (though a sidebar element to its right begins at a) Tj T* ET
+BT 1 0 0 1 64.8 620 Tm (higher visual position on the page and a floating) Tj T* ET
+BT 1 0 0 1 64.8 608.5 Tm (callout crosses between the two text columns) Tj T* ET
+BT 1 0 0 1 64.8 597 Tm (lower on the page.) Tj T* ET
+0 0 0 rg
+.933333 .94902 .968627 rg
+n 248.4 586.8 93.6 115.2 re B*
+0 0 0 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 253.4 630 Tm (SIDEBAR) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 253.4 619.2 Tm (Sidebar text begins above) Tj T* ET
+BT 1 0 0 1 253.4 610.7 Tm (the point where column two) Tj T* ET
+BT 1 0 0 1 253.4 602.2 Tm (starts, testing) Tj T* ET
+BT 1 0 0 1 253.4 593.7 Tm (spatial-vs-logical ordering.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 374.4 666 Tm (Column two begins before the sidebar visually) Tj T* ET
+BT 1 0 0 1 374.4 654.5 Tm (ends. A floating callout, positioned further down) Tj T* ET
+BT 1 0 0 1 374.4 643 Tm (the page, crosses the vertical boundary between) Tj T* ET
+BT 1 0 0 1 374.4 631.5 Tm (column one and column two, further) Tj T* ET
+BT 1 0 0 1 374.4 620 Tm (complicating naive column-detection heuristics.) Tj T* ET
+0 0 0 rg
+q
+.94902 .94902 .94902 rg
+.533333 .533333 .533333 RG
+.8 w
+n 216 507.6 136.8 46.8 re B*
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 224 540.4 Tm (EXTRACTION WARNING) Tj T* ET
+0 0 0 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 224 528.4 Tm (This callout intentionally crosses the) Tj T* ET
+BT 1 0 0 1 224 519.4 Tm (boundary between column one and) Tj T* ET
+BT 1 0 0 1 224 510.4 Tm (column two.) Tj T* ET
+0 0 0 rg
+Q
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 64.8 493.2 Tm (Continuation of column one below the callout) Tj T* ET
+BT 1 0 0 1 64.8 481.7 Tm (region, resuming the primary narrative thread) Tj T* ET
+BT 1 0 0 1 64.8 470.2 Tm (that a reading-order model must reconnect) Tj T* ET
+BT 1 0 0 1 64.8 458.7 Tm (correctly.) Tj T* ET
+0 0 0 rg
+0 0 0 rg
+BT /F4 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 374.4 493.2 Tm (Continuation of column two below the sidebar) Tj T* ET
+BT 1 0 0 1 374.4 481.7 Tm (and callout, presenting a small embedded table) Tj T* ET
+BT 1 0 0 1 374.4 470.2 Tm (for additional complexity.) Tj T* ET
+0 0 0 rg
+.866667 .866667 .866667 rg
+n 374.4 436.7 115.2 12 re f*
+0 0 0 rg
+BT /F2 7.3 Tf 8.76 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 440.7 Tm (Field) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 440.7 Tm (Value) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 448.7 m 374.4 436.7 l S
+n 424.8 448.7 m 424.8 436.7 l S
+n 489.6 448.7 m 489.6 436.7 l S
+n 374.4 448.7 m 489.6 448.7 l S
+n 374.4 436.7 m 489.6 436.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 428.7 Tm (Code) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 428.7 Tm (RO-771) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 436.7 m 374.4 424.7 l S
+n 424.8 436.7 m 424.8 424.7 l S
+n 489.6 436.7 m 489.6 424.7 l S
+n 374.4 436.7 m 489.6 436.7 l S
+n 374.4 424.7 m 489.6 424.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 416.7 Tm (State) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 416.7 Tm (Active) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 424.7 m 374.4 412.7 l S
+n 424.8 424.7 m 424.8 412.7 l S
+n 489.6 424.7 m 489.6 412.7 l S
+n 374.4 424.7 m 489.6 424.7 l S
+n 374.4 412.7 m 489.6 412.7 l S
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.4 404.7 Tm (Flag) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 427.8 404.7 Tm (\227) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 374.4 412.7 m 374.4 400.7 l S
+n 424.8 412.7 m 424.8 400.7 l S
+n 489.6 412.7 m 489.6 400.7 l S
+n 374.4 412.7 m 489.6 412.7 l S
+n 374.4 400.7 m 489.6 400.7 l S
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 10.8 460.8 Tm (NOTE A \227) Tj T* ET
+BT 1 0 0 1 10.8 452.8 Tm (Verify source) Tj T* ET
+BT 1 0 0 1 10.8 444.8 Tm (order) Tj T* ET
+0 0 0 rg
+Q
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 558 417.6 Tm (See \2474.2) Tj T* ET
+0 0 0 rg
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 61.6 Tm ([5] Reading-order test footnote for Page C; visual and logical order deliberately diverge on this page.) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 460.036 39.6 Tm (Page 12 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 503.611 39.6 Tm
+(Page 12 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+59 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+60 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+61 0 obj
+<<
+/Contents 62 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 63 0 R
+/F2 8 0 R
+/F2-0 64 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 2203
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (LEGAL / FINANCIAL RECORD \227 SYNTHETIC DATA) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (9. OCR / Visual Noise Section) Tj T* ET
+0 0 0 rg
+BT /F4 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 698.4 Tm (This section emulates artifacts typical of a poorly digitized scanned document, while remaining fully synthetic and largely legible.) Tj T* ET
+0 0 0 rg
+.866667 .866667 .866667 RG
+.3 w
+n 64.8 669.6 m 547.2 669.6 l S
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 64.8 649.6 Tm (INV0ICE ID: 98402) Tj T* ET
+BT 1 0 0 1 66 634.6 Tm (CUSTOMER C0DE: CX-77I) Tj T* ET
+BT 1 0 0 1 67.2 619.6 Tm (T0TAL: $13,977.6O) Tj T* ET
+BT 1 0 0 1 64.8 604.6 Tm (status:pending  R E V I E W  needed immediately.) Tj T* ET
+BT 1 0 0 1 66 589.6 Tm (Acc0unt   Ho1der :  J. D0e-Sm1th   \(synthetic\)) Tj T* ET
+BT 1 0 0 1 67.2 574.6 Tm (REF# : REF-2026-0048   /  D0C.O4.7.I9) Tj T* ET
+BT 1 0 0 1 64.8 559.6 Tm (Note: 0 / O and I / l / 1 are visually ambiguous by design.) Tj T* ET
+.933333 .933333 .933333 RG
+n 64.8 534.6 m 547.2 534.6 l S
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 514.6 Tm (smallfont irregularSpacing  inconsistentCapitalization missingspace exampleHERE) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 64.8 496.6 Tm (LARGER MIXED-SIZE HEADING FRAGMENT) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 476.6 Tm (Punctuation immediately adjacent to numbers:98402,and CX-771.also testmissing spaces between.words here.) Tj T* ET
+0 0 0 rg
+q
+BT /F3 6.5 Tf 7.8 TL ET
+.333333 .333333 .333333 rg
+.333333 .333333 .333333 rg
+BT /F3 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 10.8 576 Tm (OCR CHECK) Tj T* ET
+0 0 0 rg
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 460.036 39.6 Tm (Page 13 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 503.611 39.6 Tm
+(Page 13 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+63 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+64 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+65 0 obj
+<<
+/Contents 66 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 67 0 R
+/F2 8 0 R
+/F2-0 68 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+66 0 obj
+<<
+/Length 6033
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (CONFIDENTIAL \227 DOCUMENT EXTRACTION TEST) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 258.2 752.4 Tm (10. Deliberate Edge Cases) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 15 Tf 18 TL ET
+BT 1 0 0 1 64.8 720 Tm (10. Deliberate Edge Cases) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 694.8 Tm (Edge-case table \(empty cells, dashes, zero, N/A\)) Tj T* ET
+.866667 .866667 .866667 rg
+n 64.8 660.8 439.2 16 re f*
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 67.8 664.8 Tm (Field) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 161.4 664.8 Tm (Value A) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 276.6 664.8 Tm (Value B) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 391.8 664.8 Tm (Value C) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 676.8 m 64.8 660.8 l S
+n 158.4 676.8 m 158.4 660.8 l S
+n 273.6 676.8 m 273.6 660.8 l S
+n 388.8 676.8 m 388.8 660.8 l S
+n 504 676.8 m 504 660.8 l S
+n 64.8 676.8 m 504 676.8 l S
+n 64.8 660.8 m 504 660.8 l S
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 67.8 648.8 Tm (Alpha) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 161.4 648.8 Tm  T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 276.6 648.8 Tm (0) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 391.8 648.8 Tm (N/A) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 660.8 m 64.8 644.8 l S
+n 158.4 660.8 m 158.4 644.8 l S
+n 273.6 660.8 m 273.6 644.8 l S
+n 388.8 660.8 m 388.8 644.8 l S
+n 504 660.8 m 504 644.8 l S
+n 64.8 660.8 m 504 660.8 l S
+n 64.8 644.8 m 504 644.8 l S
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 67.8 632.8 Tm (Beta) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 161.4 632.8 Tm (\227) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 276.6 632.8 Tm (12.50%) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 391.8 632.8 Tm (\227) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 644.8 m 64.8 628.8 l S
+n 158.4 644.8 m 158.4 628.8 l S
+n 273.6 644.8 m 273.6 628.8 l S
+n 388.8 644.8 m 388.8 628.8 l S
+n 504 644.8 m 504 628.8 l S
+n 64.8 644.8 m 504 644.8 l S
+n 64.8 628.8 m 504 628.8 l S
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 67.8 616.8 Tm (Gamma) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 161.4 616.8 Tm (REF-2026-0048-A) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 276.6 616.8 Tm (TXN_98402_07) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 391.8 616.8 Tm (CASE/26/771) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 628.8 m 64.8 612.8 l S
+n 158.4 628.8 m 158.4 612.8 l S
+n 273.6 628.8 m 273.6 612.8 l S
+n 388.8 628.8 m 388.8 612.8 l S
+n 504 628.8 m 504 612.8 l S
+n 64.8 628.8 m 504 628.8 l S
+n 64.8 612.8 m 504 612.8 l S
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 592.8 Tm (Heading immediately followed by table) Tj T* ET
+.866667 .866667 .866667 rg
+n 64.8 560.8 144 14 re f*
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 67.8 564.8 Tm (A) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 139.8 564.8 Tm (B) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 574.8 m 64.8 560.8 l S
+n 136.8 574.8 m 136.8 560.8 l S
+n 208.8 574.8 m 208.8 560.8 l S
+n 64.8 574.8 m 208.8 574.8 l S
+n 64.8 560.8 m 208.8 560.8 l S
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 67.8 550.8 Tm (1) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 139.8 550.8 Tm (2) Tj T* ET
+.733333 .733333 .733333 RG
+.4 w
+n 64.8 560.8 m 64.8 546.8 l S
+n 136.8 560.8 m 136.8 546.8 l S
+n 208.8 560.8 m 208.8 546.8 l S
+n 64.8 560.8 m 208.8 560.8 l S
+n 64.8 546.8 m 208.8 546.8 l S
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 542.8 Tm ([6] Footnote immediately following the table above, testing adjacency handling.) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 520.8 Tm (Lists interrupted by a callout) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 506.8 Tm (1. First numbered item) Tj T* ET
+BT 1 0 0 1 64.8 493.8 Tm (2. Second numbered item) Tj T* ET
+q
+.94902 .94902 .94902 rg
+.533333 .533333 .533333 RG
+.8 w
+n 64.8 441.8 230.4 36 re B*
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 72.8 463.8 Tm (REVIEWER NOTE) Tj T* ET
+0 0 0 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 72.8 451.8 Tm (List interrupted intentionally here.) Tj T* ET
+0 0 0 rg
+Q
+BT 1 0 0 1 64.8 431 Tm (3. Third numbered item \(resumes after callout\)) Tj T* ET
+BT 1 0 0 1 64.8 415 Tm (\177 Bullet item one) Tj T* ET
+BT 1 0 0 1 78.8 402 Tm /F9 9 Tf 10.8 TL (n) Tj /F1 9 Tf 10.8 TL ( Nested bullet item) Tj T* ET
+BT 1 0 0 1 64.8 389 Tm (\177 Bullet item two) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 369 Tm (Bold/italic spanning a line break, quotes, brackets, symbols) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 355 Tm (This bold sentence intentionally continues) Tj T* ET
+BT 1 0 0 1 64.8 343 Tm (onto a second line without breaking style.) Tj T* ET
+BT /F3 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 329 Tm (This italic sentence intentionally continues) Tj T* ET
+BT 1 0 0 1 64.8 317 Tm (onto a second line as well.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 64.8 301 Tm (Quotes: \223example\224, 'example', \(parentheses\), [brackets], 50%, $1,000, \2610.25%) Tj T* ET
+BT 1 0 0 1 64.8 288 Tm (Dates: 2026-09-15, 09/15/2026, 15 Sep 2026, Sep. 15, 2026) Tj T* ET
+BT 1 0 0 1 64.8 275 Tm (URL-like: www.synthetic-example.test/report?id=98402  Email-like: reviewer.sample@synthetic-example.test) Tj T* ET
+BT 1 0 0 1 64.8 262 Tm (One-word paragraph:) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 64.8 250 Tm (Pending.) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 64.8 61.6 Tm ([6] See table adjacency note above.) Tj T* ET
+0 0 0 rg
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 460.036 39.6 Tm (Page 14 of {TOTALPAGES}) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 503.611 39.6 Tm
+(Page 14 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+67 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+68 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+69 0 obj
+<<
+/Contents 70 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 71 0 R
+/F2 8 0 R
+/F2-0 72 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+/F9 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 2924
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 64.8 752.4 Tm (CONFIDENTIAL \227 DOCUMENT EXTRACTION TEST) Tj T* ET
+BT 1 0 0 1 517.185 752.4 Tm (REV. 3.7) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 255.316 752.4 Tm (11. Extraction Test Checklist) Tj T* ET
+.6 .6 .6 RG
+.5 w
+n 64.8 746.4 m 547.2 746.4 l S
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 197.072 720 Tm (11. Extraction Test Checklist) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+n 64.8 675 9 9 re S
+BT 1 0 0 1 78.8 676 Tm (Running headers) Tj T* ET
+n 64.8 655 9 9 re S
+BT 1 0 0 1 78.8 656 Tm (Running footers) Tj T* ET
+n 64.8 635 9 9 re S
+BT 1 0 0 1 78.8 636 Tm (Page X of Y) Tj T* ET
+n 64.8 615 9 9 re S
+BT 1 0 0 1 78.8 616 Tm (Sidenotes) Tj T* ET
+n 64.8 595 9 9 re S
+BT 1 0 0 1 78.8 596 Tm (Footnotes) Tj T* ET
+n 64.8 575 9 9 re S
+BT 1 0 0 1 78.8 576 Tm (Two-column layout) Tj T* ET
+n 64.8 555 9 9 re S
+BT 1 0 0 1 78.8 556 Tm (Three-column layout) Tj T* ET
+n 64.8 535 9 9 re S
+BT 1 0 0 1 78.8 536 Tm (Floating callouts) Tj T* ET
+n 64.8 515 9 9 re S
+BT 1 0 0 1 78.8 516 Tm (Borderless table) Tj T* ET
+n 64.8 495 9 9 re S
+BT 1 0 0 1 78.8 496 Tm (Multi-page table) Tj T* ET
+n 64.8 475 9 9 re S
+BT 1 0 0 1 78.8 476 Tm (Merged cells) Tj T* ET
+n 64.8 455 9 9 re S
+BT 1 0 0 1 78.8 456 Tm (Nested table) Tj T* ET
+n 309.6 675 9 9 re S
+BT 1 0 0 1 323.6 676 Tm (Ligatures) Tj T* ET
+n 309.6 655 9 9 re S
+BT 1 0 0 1 323.6 656 Tm (Superscripts/subscripts) Tj T* ET
+n 309.6 635 9 9 re S
+BT 1 0 0 1 323.6 636 Tm (Mathematical symbols) Tj T* ET
+n 309.6 615 9 9 re S
+BT 1 0 0 1 323.6 616 Tm (Encoding artifacts) Tj T* ET
+n 309.6 595 9 9 re S
+BT 1 0 0 1 323.6 596 Tm (Rotated text) Tj T* ET
+n 309.6 575 9 9 re S
+BT 1 0 0 1 323.6 576 Tm (Key-value pairs) Tj T* ET
+n 309.6 555 9 9 re S
+BT 1 0 0 1 323.6 556 Tm (Checkboxes) Tj T* ET
+n 309.6 535 9 9 re S
+BT 1 0 0 1 323.6 536 Tm (Radio buttons) Tj T* ET
+n 309.6 515 9 9 re S
+BT 1 0 0 1 323.6 516 Tm (Signature blocks) Tj T* ET
+n 309.6 495 9 9 re S
+BT 1 0 0 1 323.6 496 Tm (Reading-order conflicts) Tj T* ET
+n 309.6 475 9 9 re S
+BT 1 0 0 1 323.6 476 Tm (OCR noise) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 135.7915 158.4 Tm (END OF SYNTHETIC DOCUMENT \227 EXTRACTION STRESS TEST) Tj T* ET
+q
+0 1 -1 0 586.8 144 cm
+BT /F2 9 Tf 10.8 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 0 0 Tm (REVIEW COPY) Tj T* ET
+Q
+BT /F1 7 Tf 8.4 TL ET
+.6 .6 .6 RG
+n 64.8 59.6 m 547.2 59.6 l S
+BT /F3 7 Tf 8.4 TL ET
+BT 1 0 0 1 64.8 39.6 Tm (CONFIDENTIAL \227 SYNTHETIC TEST DOCUMENT) Tj T* ET
+BT 1 0 0 1 460.036 39.6 Tm (Page 15 of {TOTALPAGES}) Tj T* ET
+BT /F3 6 Tf 7.2 TL ET
+BT 1 0 0 1 104.244 29.6 Tm (This document is synthetic and intended solely for document-processing evaluation. No real transaction, person, account, or legal matter is represented.) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+381.6 36.6 165.6 14 re
+f*
+0 0 0 rg
+BT
+/F2-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 503.611 39.6 Tm
+(Page 15 of 15) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+71 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+72 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 73
+0000000000 65535 f 
+0000000015 00000 n 
+0000000226 00000 n 
+0000000384 00000 n 
+0000000433 00000 n 
+0000000755 00000 n 
+0000004681 00000 n 
+0000004788 00000 n 
+0000004895 00000 n 
+0000005007 00000 n 
+0000005122 00000 n 
+0000005238 00000 n 
+0000005348 00000 n 
+0000005454 00000 n 
+0000005565 00000 n 
+0000005643 00000 n 
+0000005763 00000 n 
+0000005847 00000 n 
+0000006173 00000 n 
+0000011299 00000 n 
+0000011407 00000 n 
+0000011523 00000 n 
+0000011849 00000 n 
+0000016865 00000 n 
+0000016973 00000 n 
+0000017089 00000 n 
+0000017415 00000 n 
+0000020554 00000 n 
+0000020662 00000 n 
+0000020778 00000 n 
+0000021104 00000 n 
+0000053968 00000 n 
+0000054076 00000 n 
+0000054192 00000 n 
+0000054518 00000 n 
+0000079783 00000 n 
+0000079891 00000 n 
+0000080007 00000 n 
+0000080333 00000 n 
+0000085525 00000 n 
+0000085633 00000 n 
+0000085749 00000 n 
+0000086075 00000 n 
+0000090939 00000 n 
+0000091047 00000 n 
+0000091163 00000 n 
+0000091489 00000 n 
+0000095070 00000 n 
+0000095178 00000 n 
+0000095294 00000 n 
+0000095620 00000 n 
+0000101278 00000 n 
+0000101386 00000 n 
+0000101502 00000 n 
+0000101828 00000 n 
+0000107486 00000 n 
+0000107594 00000 n 
+0000107710 00000 n 
+0000108036 00000 n 
+0000113694 00000 n 
+0000113802 00000 n 
+0000113918 00000 n 
+0000114244 00000 n 
+0000116500 00000 n 
+0000116608 00000 n 
+0000116724 00000 n 
+0000117050 00000 n 
+0000123136 00000 n 
+0000123244 00000 n 
+0000123360 00000 n 
+0000123686 00000 n 
+0000126663 00000 n 
+0000126771 00000 n 
+trailer
+<<
+/Size 73
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+126887
+%%EOF
