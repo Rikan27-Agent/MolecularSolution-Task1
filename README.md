@@ -1,7 +1,8 @@
 # Task 1 — PDF Document Processing
 
+---
 ## 1. Objective
-
+---
 Build a PDF text-processing pipeline that extracts text page-by-page,
 cleans the extracted content, stores the result in structured JSON,
 and compares five PDF libraries based on execution performance and
@@ -160,7 +161,7 @@ Libraries used:
       ├── README.md
       └── .gitignore
 
-
+---
 ## 4. Implementation
 
 ### 4.1 PDF Extraction
@@ -174,7 +175,7 @@ Each PDF is processed independently using the five selected PDF libraries.
 - Keeps the extraction logic separate for each library.
 - Uses the same output structure for all five libraries so that their results can be compared consistently.
 
----
+
 
 #### 4.2 Text Cleaning & Preprocessing
 
