@@ -16,21 +16,21 @@ Libraries used:
 - pdfminer.six
 
 
-PyMuPDF: -
-•	PyMuPDF is a fast Python library for reading, extracting, rendering, and manipulating PDF documents.
-•	It is commonly used for fast text extraction, page-level processing, metadata extraction, PDF       rendering, and document preprocessing.
-Pdfplumber: - 
-•	pdfplumber is a Python library for extracting text and layout information from PDFs, with particularly useful support for tables and positioned text.
-•	It is useful when document layout, text positioning, and table extraction are important.
-Pypdf: -
-•	pypdf is a pure-Python library used for reading, extracting, and manipulating PDF documents.
-•	It is useful for basic text extraction and general PDF operations without focusing heavily on layout analysis.
-Pypdfium2: -
-•	pypdfium2 is a Python binding for the PDFium library, used for rendering PDF pages and extracting PDF content.
-•	It is useful when you need PDF rendering capabilities along with page-level document processing.
-Pdfminer.six: -
-•	pdfminer.six is a Python library focused on detailed PDF text extraction and layout analysis.
-•	It is useful when we need fine-grained control over extracted text and its layout structure.
+- PyMuPDF: -
+  •	PyMuPDF is a fast Python library for reading, extracting, rendering, and manipulating PDF documents.
+  •	It is commonly used for fast text extraction, page-level processing, metadata extraction, PDF rendering, and document preprocessing.
+- Pdfplumber: - 
+  •	pdfplumber is a Python library for extracting text and layout information from PDFs, with particularly useful support for tables and positioned text.
+  •	It is useful when document layout, text positioning, and table extraction are important.
+- Pypdf: -
+  •	pypdf is a pure-Python library used for reading, extracting, and manipulating PDF documents.
+  • It is useful for basic text extraction and general PDF operations without focusing heavily on layout analysis.
+- Pypdfium2: -
+  •	pypdfium2 is a Python binding for the PDFium library, used for rendering PDF pages and extracting PDF content.
+  • It is useful when you need PDF rendering capabilities along with page-level document processing.
+- Pdfminer.six: -
+  •	pdfminer.six is a Python library focused on detailed PDF text extraction and layout analysis.
+  • It is useful when we need fine-grained control over extracted text and its layout structure.
 
 ---
 
